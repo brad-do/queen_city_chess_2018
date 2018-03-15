@@ -1,0 +1,1380 @@
+First Name  Last Name    Grade  Team                       Section          SIMUL
+
+Lindsey     Alverson     12     A King and A Queen         10-12 NON-RATED  NO
+
+Jake        Braunstein   12     A King and A Queen         10-12 NON-RATED  NO
+
+Grayson     Craig        12     Avenues For Success        10-12 NON-RATED  NO
+
+Jacob       Garrett      8      Batesville Middle School   7-9 NON-RATED    NO
+
+Elizabethe  Stamm        4      Beechwood                  4 NON-RATED      NO
+
+William     Stamm        8      Beechwood                  RATED 7-9 OPEN   NO
+
+Jacob       Vegso        8      Beechwood                  7-9 NON-RATED    NO
+
+William     Young        8      Beechwood                  RATED 7-9 OPEN   NO
+
+Brayden     Baker        7      Bellevue Bishops           7-9 NON-RATED    YES
+
+Nick        Baker        7      Bellevue Bishops           7-9 NON-RATED    NO
+
+Jackson     Bowman       4      Bellevue Bishops           4 NON-RATED      YES
+
+Kolby       Caudill      4      Bellevue Bishops           4 NON-RATED      NO
+
+Tiarra      Fields       6      Bellevue Bishops           6 NON-RATED      NO
+
+Alex        Goodwin      4      Bellevue Bishops           4 NON-RATED      NO
+
+Liam        Goodwin      3      Bellevue Bishops           3 NON-RATED      NO
+
+Nate        Hall         6      Bellevue Bishops           6 NON-RATED      NO
+
+Justin      Linthasack   9      Bellevue Bishops           7-9 NON-RATED    NO
+
+James       Long         7      Bellevue Bishops           7-9 NON-RATED    NO
+
+Paulina     Long         5      Bellevue Bishops           5 NON-RATED      NO
+
+Ashley      Moreland     5      Bellevue Bishops           5 NON-RATED      NO
+
+Ethan       Noonchester  7      Bellevue Bishops           7-9 NON-RATED    NO
+
+Enrique     Soard        6      Bellevue Bishops           6 NON-RATED      NO
+
+Tage        Tuzzo        4      Bellevue Bishops           4 NON-RATED      NO
+
+Andrew      Williams     9      Bellevue Bishops           7-9 NON-RATED    NO
+
+Damien      Wahl         6      Berry Intermediate School  6 NON-RATED      YES
+
+Mason       Griffin      5      Bethany                    5 NON-RATED      NO
+
+Kaeden      Iyoha        6      Bethany                    6 NON-RATED      NO
+
+Vaughn      Iyoha        4      Bethany                    4 NON-RATED      NO
+
+Jazelle     Merritt      5      Bethany                    5 NON-RATED      NO
+
+Brandon     Phillips     5      Bethany                    5 NON-RATED      NO
+
+Ben         Sovec        6      Bethany                    6 NON-RATED      NO
+
+Nathan      Sovec        3      Bethany                    3 NON-RATED      NO
+
+Matthew     Thomas       5      Bethany                    5 NON-RATED      NO
+David        Levy         6   Bexley Middle School     RATED 4-6 < 800  NO
+
+Collin       Bowery       2   BGCGC                    2 NON-RATED      NO
+
+Liam         Bowery       4   BGCGC                    4 NON-RATED      NO
+
+Scotty       Bowling Jr.  2   BGCGC                    2 NON-RATED      NO
+
+Dominic      Creech       5   BGCGC                    5 NON-RATED      NO
+
+Sean         Curry        3   BGCGC                    3 NON-RATED      NO
+
+Braylon      Griffin      4   BGCGC                    4 NON-RATED      NO
+
+Olivia       Griffith     4   BGCGC                    4 NON-RATED      NO
+
+McKenzie     Hawkins      2   BGCGC                    2 NON-RATED      NO
+
+Montez       Holmes       7   BGCGC                    7-9 NON-RATED    NO
+
+DaMarco      Jackson      2   BGCGC                    2 NON-RATED      NO
+
+Dameko       Lewis        6   BGCGC                    6 NON-RATED      NO
+
+Elijah       Manguire     4   BGCGC                    4 NON-RATED      NO
+
+Marissa      Middleton    6   BGCGC                    6 NON-RATED      NO
+
+Sam          Moore        4   BGCGC                    4 NON-RATED      NO
+
+Clayton      Turner       2   BGCGC                    2 NON-RATED      NO
+
+Anthony      Williams     5   BGCGC                    5 NON-RATED      NO
+
+Rajit        Samant       1   Boyd E Smith Elementary  1 NON-RATED      NO
+
+Vijay        Kannan       1   Brandeis                 RATED K-3 OPEN   NO
+
+Vishwaa      Kannan       3   Brandeis                 RATED K-12 OPEN  NO
+
+Hardhi       Karnati      2   Brandeis                 RATED K-3 OPEN   YES
+
+Eric         Albers       7   CCL                      RATED 7-9 OPEN   YES
+
+Anton        Bakunin      9   CCL                      RATED 7-9 OPEN   NO
+
+Fedor        Bakunin      7   CCL                      RATED 7-9 OPEN   NO
+
+Kenneth      Cao          7   CCL                      RATED K-12 OPEN  NO
+
+Anson        Chu          K   CCL                      K NON-RATED      NO
+
+Ella Lea     Hughes       5   CCL                      RATED 4-6 < 800  NO
+
+Uku Hendrik  Hughes       9   CCL                      RATED 7-9 OPEN   NO
+
+Siddarth     Kunapuli     2   CCL                      RATED K-3 OPEN   NO
+
+Jashwin      Pisini       2   CCL                      RATED K-3 OPEN   YES
+
+James        Scarbrough   4   CCL                      RATED 4-6 < 800  YES
+
+Matt         Wang         5   CCL                      RATED 4-6 OPEN   NO
+
+David        Teague       12  Chaminade Julienne       RATED K-12 OPEN  NO
+
+Jahlil       Henderson    5   Chase Elementary         5 NON-RATED      NO
+Laylah    Lackey     4   Chase Elementary              4 NON-RATED      NO
+
+Jeremiah  Miles      5   Chase Elementary              5 NON-RATED      NO
+
+Joseph    Hughes     5   Cincinnati Christian Schools  5 NON-RATED      NO
+
+John      Alf        1   Cincinnati Country Day        1 NON-RATED      NO
+
+Clayton   Blust      3   Cincinnati Country Day        3 NON-RATED      YES
+
+Jack      Connelly   9   Cincinnati Country Day        7-9 NON-RATED    YES
+
+Jack      Garringer  1   Cincinnati Country Day        1 NON-RATED      NO
+
+Cole      Harten     8   Cincinnati Country Day        7-9 NON-RATED    YES
+
+Reed      Horton     5   Cincinnati Country Day        SIMUL ONLY       NO
+
+Aditya    Nayak      4   Cincinnati Country Day        4 NON-RATED      YES
+
+Connor    Paff       9   Cincinnati Country Day        7-9 NON-RATED    YES
+
+Wes       Peters     5   Cincinnati Country Day        SIMUL ONLY       NO
+
+Connor    Salcedo    4   Cincinnati Country Day        4 NON-RATED      YES
+
+Nik       Shah       5   Cincinnati Country Day        SIMUL ONLY       NO
+
+Cade      Smith      11  Cincinnati Country Day        SIMUL ONLY       YES
+
+Zac       Vaughan    5   Cincinnati Country Day        5 NON-RATED      YES
+
+Charles   Xiang      10  Cincinnati Country Day        10-12 NON-RATED  NO
+
+Tao       Xiong      5   Cincinnati Country Day        SIMUL ONLY       NO
+
+Justin    Howell     8   Colerain                      7-9 NON-RATED    NO
+
+Evan      Jackson    3   Colerain                      3 NON-RATED      NO
+
+Jordan    Jackson    5   Colerain                      5 NON-RATED      NO
+
+Elijah    Jordan     5   Colerain                      5 NON-RATED      YES
+
+Lucas     Kathman    5   Colerain                      5 NON-RATED      NO
+
+Logan     Ledbetter  6   Colerain                      6 NON-RATED      NO
+
+Noah      Ledbetter  4   Colerain                      4 NON-RATED      NO
+
+Devon     Masterson  7   Colerain                      7-9 NON-RATED    NO
+
+Cyrus     McCane     8   Colerain                      7-9 NON-RATED    YES
+
+Solomon   Perkins    7   Colerain                      7-9 NON-RATED    NO
+
+William   Rahtz      4   Colerain                      4 NON-RATED      NO
+
+Brandon   Wyatt      8   Colerain                      7-9 NON-RATED    NO
+
+Joseph    Daiber     6   Columbus Academy              RATED 4-6 < 800  NO
+
+Sean      Jackson    6   Columbus Academy              RATED 4-6 OPEN   NO
+
+Aanav     Karumsi    6   Columbus Academy              6 NON-RATED      NO
+
+William   Khoury     4   Columbus Academy              4 NON-RATED      NO
+Adi          Sadana         6   Columbus Academy              RATED 4-6 < 800  NO
+
+Evan         Schenck-Chang  6   Columbus Academy              RATED 4-6 < 800  NO
+
+Bhavya       Sinhal         4   Columbus Academy              RATED 4-6 OPEN   NO
+
+Reed         Swartz         6   Columbus Academy              RATED 4-6 < 800  NO
+
+Arnav        Londhe         7   Columbus Preparatory Academy  RATED 7-9 OPEN   NO
+
+John         Zaleski        1   Columbus Preparatory Academy  RATED K-3 OPEN   YES
+
+Nimai        Gharat         4   Concord Elementary            RATED 4-6 OPEN   NO
+
+Kavin        Parthiv        6   Crosby Middle School          RATED 4-6 OPEN   NO
+
+Neev         Bhayani        5   Darby Creek                   RATED 4-6 OPEN   YES
+
+Rilan        Alcorn         7   Dayton Middle/High School     7-9 NON-RATED    NO
+
+Braden       Bickers        7   Dayton Middle/High School     7-9 NON-RATED    NO
+
+Braden       Fromeyer       7   Dayton Middle/High School     7-9 NON-RATED    YES
+
+Diego        Gonzalez       9   Dayton Middle/High School     7-9 NON-RATED    NO
+
+Vinny        Gonzalez       9   Dayton Middle/High School     7-9 NON-RATED    NO
+
+Zach         Hamlin         8   Dayton Middle/High School     7-9 NON-RATED    NO
+
+Caden        Coho           5   Deer Run Elementary           5 NON-RATED      NO
+
+Armaan       Gupta          3   Deer Run Elementary           3 NON-RATED      NO
+
+Olivia       Lu             5   Deer Run Elementary           RATED 4-6 < 800  NO
+
+Nicholas     Otter          5   Deer Run Elementary           5 NON-RATED      NO
+
+Jay          Parmar         3   Deer Run Elementary           RATED K-3 OPEN   NO
+
+Akash        Ravipati       5   Deer Run Elementary           5 NON-RATED      NO
+
+Isaiah       Albert         8   Detroit City Chess Club       RATED 7-9 OPEN   NO
+
+Jacob        Allen          1   Detroit City Chess Club       1 NON-RATED      YES
+
+Onyeka       Ballard        4   Detroit City Chess Club       4 NON-RATED      YES
+
+Maxwell      Baloh          5   Detroit City Chess Club       RATED 4-6 < 800  NO
+
+Theodore     Baloh          5   Detroit City Chess Club       RATED 4-6 OPEN   NO
+
+Abdurrahman  Bayi           7   Detroit City Chess Club       RATED 7-9 OPEN   YES
+
+Charles      Boyce          10  Detroit City Chess Club       RATED K-12 OPEN  NO
+
+Lauren       Bradford       10  Detroit City Chess Club       RATED K-12 OPEN  YES
+
+Dominic      Brantley       2   Detroit City Chess Club       2 NON-RATED      NO
+
+Nolan        Bryant         10  Detroit City Chess Club       RATED K-12 OPEN  NO
+
+Avery        Burks          5   Detroit City Chess Club       RATED 4-6 < 800  NO
+
+Genevieve    Burks          2   Detroit City Chess Club       2 NON-RATED      YES
+
+Ivory        Burks          6   Detroit City Chess Club       RATED 4-6 OPEN   YES
+Nicholas    Burton        7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Isaiah      Cobb          K   Detroit City Chess Club  K NON-RATED      YES
+
+Kaitlin     Cobb          5   Detroit City Chess Club  RATED 4-6 OPEN   YES
+
+Karrington  Cobb          7   Detroit City Chess Club  RATED 7-9 OPEN   NO
+
+Kevin       Cobb          9   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Samuel      Cobb          3   Detroit City Chess Club  RATED K-3 OPEN   YES
+
+Oscar       Cobb, III     1   Detroit City Chess Club  1 NON-RATED      YES
+
+Allan       Cosma II      1   Detroit City Chess Club  RATED K-3 OPEN   YES
+
+Marquesa    Cowart        6   Detroit City Chess Club  6 NON-RATED      YES
+
+Mariah      Crawford      3   Detroit City Chess Club  RATED K-3 OPEN   NO
+
+Mya         Crawford      10  Detroit City Chess Club  10-12 NON-RATED  NO
+
+Cornelius   Crawley       10  Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Donald      Dameron       12  Detroit City Chess Club  RATED K-12 OPEN  YES
+
+William     Dunson        5   Detroit City Chess Club  RATED 4-6 OPEN   NO
+
+Damon       English Jr.   1   Detroit City Chess Club  1 NON-RATED      YES
+
+Blake       Fields        7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Braylon     Fields        3   Detroit City Chess Club  RATED K-3 OPEN   YES
+
+Solmon      Foster        7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Derrick     Freeman-Hall  10  Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Kalel       Garrett       5   Detroit City Chess Club  5 NON-RATED      YES
+
+Joshua      Griffin       7   Detroit City Chess Club  RATED 7-9 OPEN   NO
+
+Jada        Hamilton      10  Detroit City Chess Club  RATED K-12 OPEN  NO
+
+Jaidyn      Hamilton      10  Detroit City Chess Club  RATED K-12 OPEN  NO
+
+Walter      Hamilton      8   Detroit City Chess Club  RATED 7-9 OPEN   NO
+
+Faith       Harrell       5   Detroit City Chess Club  RATED 4-6 < 800  YES
+
+Alexis      Harrington    2   Detroit City Chess Club  2 NON-RATED      YES
+
+Benjamin    Harrington    4   Detroit City Chess Club  RATED 4-6 < 800  YES
+
+Roland      Harrington    4   Detroit City Chess Club  RATED 4-6 < 800  YES
+
+Chase       Harris        4   Detroit City Chess Club  RATED 4-6 OPEN   YES
+
+George      Hawkins       1   Detroit City Chess Club  1 NON-RATED      YES
+
+Hannah      Hendrix       3   Detroit City Chess Club  3 NON-RATED      YES
+
+Torrance    Henry         10  Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Eric        Hobson Jr     7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Armari      Howard        4   Detroit City Chess Club  RATED 4-6 < 800  NO
+Donovan       Jackson         7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Malcolm       Johnson         8   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Lesean        Johnson Jr      9   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Israel        Jones           6   Detroit City Chess Club  RATED 4-6 OPEN   YES
+
+Kamron        Jones-Franklin  5   Detroit City Chess Club  RATED 4-6 < 800  NO
+
+Alexis        Karnga          2   Detroit City Chess Club  2 NON-RATED      YES
+
+Joseph        Kuykendall      8   Detroit City Chess Club  RATED 7-9 OPEN   NO
+
+Matthew       Lindsey         6   Detroit City Chess Club  RATED 4-6 OPEN   NO
+
+Devin         Lott            5   Detroit City Chess Club  5 NON-RATED      YES
+
+Brendan       Mackie          4   Detroit City Chess Club  RATED 4-6 < 800  NO
+
+Khai          Manley          3   Detroit City Chess Club  RATED K-3 OPEN   YES
+
+Gavin         Massenberg      7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Keithanthony  Morales         6   Detroit City Chess Club  6 NON-RATED      YES
+
+Maxwell       Motley          7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Maximus       Norwood         8   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Houston       Poe             5   Detroit City Chess Club  RATED 4-6 OPEN   YES
+
+Daniel        Randon          4   Detroit City Chess Club  4 NON-RATED      YES
+
+Gabriel       Reason          11  Detroit City Chess Club  10-12 NON-RATED  NO
+
+Cameron       Rector          7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Kylin         Robinson        9   Detroit City Chess Club  7-9 NON-RATED    NO
+
+Kenneth       Rogers, III     9   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Isabella      Rooks           8   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Ivan          Ruffin          6   Detroit City Chess Club  RATED 4-6 < 800  YES
+
+James         Schmidt         12  Detroit City Chess Club  RATED K-12 OPEN  NO
+
+Damen         Smith           4   Detroit City Chess Club  4 NON-RATED      NO
+
+Jordan        Smith           11  Detroit City Chess Club  10-12 NON-RATED  NO
+
+Nickalas      Smith           2   Detroit City Chess Club  2 NON-RATED      NO
+
+Jalen         Spicer          7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Elijah        Spratt          7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Nolan         Story           4   Detroit City Chess Club  RATED 4-6 < 800  NO
+
+Mario         Stromile        4   Detroit City Chess Club  4 NON-RATED      YES
+
+Dominic       Taylor          K   Detroit City Chess Club  K NON-RATED      YES
+
+Kamari        Tensley         8   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Canaan        Thomas          8   Detroit City Chess Club  RATED 7-9 OPEN   YES
+Michael Jeffery  Thomas        9   Detroit City Chess Club  RATED K-12 OPEN  YES
+
+David            Tinsley       9   Detroit City Chess Club  7-9 NON-RATED    NO
+
+Alayna           Todd          9   Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Taharka          Turner        2   Detroit City Chess Club  RATED K-3 OPEN   YES
+
+Talmage          Turner        9   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Travis           Turner        7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Alexander        Varner        7   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Amari            Walker        12  Detroit City Chess Club  10-12 NON-RATED  NO
+
+Jaden            Walton        8   Detroit City Chess Club  7-9 NON-RATED    YES
+
+Kamauri          Washington    10  Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Tamyre           Watkins       10  Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Brelen           Wilkes        8   Detroit City Chess Club  RATED 7-9 OPEN   YES
+
+Nicholas         Williams      6   Detroit City Chess Club  RATED 4-6 < 800  YES
+
+Bryan            Wilson        10  Detroit City Chess Club  RATED K-12 OPEN  NO
+
+Charlese         Wilson        4   Detroit City Chess Club  RATED 4-6 < 800  YES
+
+Kameron          Wilson        9   Detroit City Chess Club  RATED K-12 OPEN  YES
+
+Isaiah           Yanish        6   Detroit City Chess Club  RATED 4-6 OPEN   YES
+
+Rachit           Aleti         5   Dragon Chess Center      5 NON-RATED      NO
+
+Rudrtej          Anumula       3   Dragon Chess Center      3 NON-RATED      YES
+
+Krish            Aravind       1   Dragon Chess Center      1 NON-RATED      NO
+
+Vishnu           Avanthsa      9   Dragon Chess Center      RATED 7-9 OPEN   NO
+
+Ruthvik          Ayyagari      8   Dragon Chess Center      RATED 7-9 OPEN   NO
+
+Sankalp          Ayyagari      5   Dragon Chess Center      RATED 4-6 OPEN   NO
+
+Arav             Bhatt         9   Dragon Chess Center      RATED 7-9 OPEN   YES
+
+Lang             Chen          5   Dragon Chess Center      5 NON-RATED      NO
+
+Shuang           Chen          1   Dragon Chess Center      1 NON-RATED      NO
+
+Saketh           Chirumamilla  9   Dragon Chess Center      7-9 NON-RATED    NO
+
+Zhuo             Diao          1   Dragon Chess Center      1 NON-RATED      NO
+
+Sanjeev          Ganga         K   Dragon Chess Center      RATED K-3 OPEN   NO
+
+Vincent          Goedde        5   Dragon Chess Center      5 NON-RATED      NO
+
+Suhas            Goli          5   Dragon Chess Center      5 NON-RATED      NO
+
+Eli              Hu            2   Dragon Chess Center      RATED K-3 OPEN   NO
+
+Ritvik           Irigireddy    6   Dragon Chess Center      6 NON-RATED      NO
+
+Prathik          Iyengar       7   Dragon Chess Center      7-9 NON-RATED    NO
+Aakash     Kajan        4   Dragon Chess Center  4 NON-RATED      NO
+
+Anish      Kajan        7   Dragon Chess Center  RATED 7-9 OPEN   NO
+
+Sourish    Kandisetty   3   Dragon Chess Center  3 NON-RATED      NO
+
+Arjun      Karthikeyan  2   Dragon Chess Center  2 NON-RATED      NO
+
+Suhaas     Katta        3   Dragon Chess Center  3 NON-RATED      NO
+
+Arnav      Kodkani      2   Dragon Chess Center  2 NON-RATED      NO
+
+Nihar      Kodkani      7   Dragon Chess Center  7-9 NON-RATED    NO
+
+Sushanth   Koppula      7   Dragon Chess Center  RATED 7-9 OPEN   NO
+
+Ashish     Kothapalli   1   Dragon Chess Center  RATED K-3 OPEN   NO
+
+Dennis     Kruglov      10  Dragon Chess Center  RATED K-12 OPEN  NO
+
+Charlton   Li           6   Dragon Chess Center  RATED 4-6 OPEN   NO
+
+Abigail    Love         6   Dragon Chess Center  6 NON-RATED      NO
+
+Adyanth    Mallur       6   Dragon Chess Center  6 NON-RATED      NO
+
+Advaith    Medikonda    3   Dragon Chess Center  3 NON-RATED      NO
+
+Andriy     Misyura      5   Dragon Chess Center  5 NON-RATED      NO
+
+Keertan    Muddana      4   Dragon Chess Center  4 NON-RATED      NO
+
+Vaishnavi  Mummidi      3   Dragon Chess Center  3 NON-RATED      NO
+
+Rohan      Narisetti    4   Dragon Chess Center  4 NON-RATED      NO
+
+Harshita   Nune         7   Dragon Chess Center  7-9 NON-RATED    NO
+
+Deepak     Payyala      5   Dragon Chess Center  5 NON-RATED      NO
+
+Karthik    Prabhakar    2   Dragon Chess Center  2 NON-RATED      NO
+
+Nikil      Prabhakar    7   Dragon Chess Center  RATED 7-9 OPEN   NO
+
+Abhinav    Pullabhotla  4   Dragon Chess Center  RATED 4-6 < 800  NO
+
+Abhiraj    Roy          3   Dragon Chess Center  RATED K-3 OPEN   NO
+
+Naga Sai   Sankula      5   Dragon Chess Center  RATED 4-6 OPEN   NO
+
+Aniket     Shetty       5   Dragon Chess Center  RATED 4-6 < 800  NO
+
+Sarvashay  Sridhar      7   Dragon Chess Center  RATED 7-9 OPEN   NO
+
+Varun      Sriram       5   Dragon Chess Center  5 NON-RATED      NO
+
+David      Wang         3   Dragon Chess Center  3 NON-RATED      NO
+
+Mason      Wu           4   Dragon Chess Center  RATED 4-6 < 800  NO
+
+Alester    Xiao         5   Dragon Chess Center  RATED 4-6 OPEN   YES
+
+Ethan      Xie          K   Dragon Chess Center  K NON-RATED      NO
+
+Samhith    Yelchuri     3   Dragon Chess Center  3 NON-RATED      NO
+
+Philip     Zhang        K   Dragon Chess Center  K NON-RATED      NO
+Phineas    Zhang      K   Dragon Chess Center        K NON-RATED      NO
+
+Kevin      Zhou       1   Dragon Chess Center        1 NON-RATED      YES
+
+Om         Borkar     10  Dublin Jerome High School  RATED K-12 OPEN  NO
+
+Kaleb      Bracey     4   Eden Grove Academy         4 NON-RATED      NO
+
+Michael    Willis     5   Eden Grove Academy         5 NON-RATED      NO
+
+Michelle   Willis     5   Eden Grove Academy         5 NON-RATED      NO
+
+Kyle       Sokolis    10  Elder High School          RATED K-12 OPEN  YES
+
+Miciah     Binford    5   Ethel Taylor Academy       5 NON-RATED      YES
+
+Joshua     Isome      3   Ethel Taylor Academy       3 NON-RATED      NO
+
+Ravion     Johnson    3   Ethel Taylor Academy       3 NON-RATED      NO
+
+Jamiera    Jones      6   Ethel Taylor Academy       6 NON-RATED      NO
+
+Gustavo    Morales    6   Ethel Taylor Academy       6 NON-RATED      NO
+
+Elise      Mumphrey   3   Ethel Taylor Academy       3 NON-RATED      NO
+
+James      Scott      6   Ethel Taylor Academy       6 NON-RATED      NO
+
+Cirah      Solomon    4   Ethel Taylor Academy       4 NON-RATED      NO
+
+Kamryn     Solomon    5   Ethel Taylor Academy       5 NON-RATED      NO
+
+Durrell    Turner     4   Ethel Taylor Academy       4 NON-RATED      YES
+
+Kaylee     Lykins     3   Fairborn                   RATED K-3 OPEN   NO
+
+William    Lykins     5   Fairborn                   RATED 4-6 < 800  NO
+
+Alexander  Moore      3   Fairborn                   RATED K-3 OPEN   NO
+
+Owen       Myers      8   Fairborn                   RATED 7-9 OPEN   NO
+
+Tayden     Myers      3   Fairborn                   RATED K-3 OPEN   NO
+
+Matthew    Wardle     4   Fairborn                   4 NON-RATED      NO
+
+Daniel     Ramirez    6   Fairview Clifton           RATED 4-6 < 800  YES
+
+Thomas     Ramirez    4   Fairview Clifton           RATED 4-6 < 800  YES
+
+Risheeth   Kankeyan   4   Glacier Ridge Elementary   4 NON-RATED      NO
+
+Aarnav     Medikonda  1   Glacier Ridge Elementary   1 NON-RATED      NO
+
+Akhil      Medikonda  4   Glacier Ridge Elementary   4 NON-RATED      NO
+
+Aarush     Andey      1   Glen Oak Elementary        1 NON-RATED      NO
+
+Ketan      Kassetty   3   Glen Oak Elementary        3 NON-RATED      NO
+
+Preetam    Kassetty   5   Glen Oak Elementary        5 NON-RATED      NO
+
+Daniel     Chen       7   Golden Knights             RATED 7-9 OPEN   NO
+
+Kevin      Wang       6   Golden Knights             RATED 4-6 OPEN   NO
+
+Joey       Case       7   Good Rooking Knights       7-9 NON-RATED    YES
+Jackson       Eilers      3   Good Rooking Knights               3 NON-RATED      YES
+
+Andrew        Kramer      1   Good Rooking Knights               1 NON-RATED      YES
+
+Ben           Kramer      1   Good Rooking Knights               1 NON-RATED      YES
+
+Jacob         Kramer      3   Good Rooking Knights               RATED K-3 OPEN   YES
+
+Randi         Pulliam     10  Goshen                             10-12 NON-RATED  NO
+
+Brandon       Singleton   12  Goshen                             10-12 NON-RATED  YES
+
+Caleb         Phillippi   10  Grant County High School           RATED K-12 OPEN  NO
+
+Andrew        Cheng       4   Greater Cincinnati Chinese School  4 NON-RATED      YES
+
+Tyler         Huang       6   Greater Cincinnati Chinese School  RATED 4-6 OPEN   NO
+
+Austin        Lin         1   Greater Cincinnati Chinese School  1 NON-RATED      NO
+
+Witten        Pan         6   Greater Cincinnati Chinese School  6 NON-RATED      NO
+
+Sophia        Suwiryo     3   Greater Cincinnati Chinese School  RATED K-3 OPEN   NO
+
+Aurora        Wibowo      4   Greater Cincinnati Chinese School  RATED 4-6 < 800  NO
+
+Nikolas       Wibowo      6   Greater Cincinnati Chinese School  RATED 4-6 OPEN   NO
+
+Arwin         Xu          3   Greater Cincinnati Chinese School  RATED K-3 OPEN   NO
+
+Zehua         Zha         4   Greater Cincinnati Chinese School  RATED 4-6 OPEN   NO
+
+Annie         Fleming     2   Grim Knights                       2 NON-RATED      NO
+
+Jack          Fleming     4   Grim Knights                       4 NON-RATED      NO
+
+Will          Hasecke     5   Grim Knights                       5 NON-RATED      NO
+
+Brayden       Herron      5   Grim Knights                       5 NON-RATED      NO
+
+Padraig       Manion      5   Grim Knights                       5 NON-RATED      NO
+
+Ben           Oehlers     6   Grim Knights                       6 NON-RATED      NO
+
+Luke          Armstrong   3   Guardian Angels                    3 NON-RATED      NO
+
+Lucas         Dwyer       4   Guardian Angels                    4 NON-RATED      YES
+
+Mitchell      Ganim       4   Guardian Angels                    4 NON-RATED      YES
+
+Gavin         Gerhard     5   Guardian Angels                    5 NON-RATED      YES
+
+Matthew       Mindrum     8   Guardian Angels                    7-9 NON-RATED    NO
+
+Michael       Mindrum     5   Guardian Angels                    5 NON-RATED      NO
+
+Kaelin        Timko       4   Guardian Angels                    4 NON-RATED      YES
+
+Druvin Reddy  Mutalam     4   Heritage Elementary                RATED 4-6 OPEN   NO
+
+Deepthisri    Paruchuri   5   Heritage Elementary                RATED 4-6 OPEN   NO
+
+Divyasree     Paruchuri   4   Heritage Elementary                4 NON-RATED      NO
+
+Srikari       Seethiraju  4   Heritage Elementary                RATED 4-6 < 800  NO
+
+Erik          Bernardo    7   Holy Family School                 7-9 NON-RATED    NO
+Jose Rene      Cabrera       5   Holy Family School      5 NON-RATED      NO
+
+Lillyan        Couch         4   Holy Family School      4 NON-RATED      NO
+
+Nathan         Couch         5   Holy Family School      5 NON-RATED      NO
+
+Alexis         Engel         7   Holy Family School      7-9 NON-RATED    NO
+
+Brenna         Hess          5   Holy Family School      5 NON-RATED      NO
+
+Geraldina      Jeronimo      5   Holy Family School      5 NON-RATED      NO
+
+Oliver         Lopez         7   Holy Family School      7-9 NON-RATED    NO
+
+Arayana        Nelson        7   Holy Family School      7-9 NON-RATED    NO
+
+Andres         Ortiz         4   Holy Family School      4 NON-RATED      NO
+
+Evyn           Phillips      7   Holy Family School      7-9 NON-RATED    YES
+
+Eyn            Phillips      6   Holy Family School      6 NON-RATED      YES
+
+Bronson        Presnell      5   Holy Family School      5 NON-RATED      NO
+
+Daniel         Ranes         5   Holy Family School      5 NON-RATED      NO
+
+John           Ranes         6   Holy Family School      6 NON-RATED      NO
+
+Connor         Link          3   Hopewell Elementary     3 NON-RATED      YES
+
+Manoghna       Kolli         4   Humdinger Logistics     RATED 4-6 < 800  NO
+
+Pranith        Kolli         4   Humdinger Logistics     RATED 4-6 OPEN   NO
+
+Mason          Nguyen        7   Hyatts Middle School    7-9 NON-RATED    NO
+
+Samuel         Cella         6   Incarnation             RATED 4-6 < 800  NO
+
+Sean           Chaudhuri     4   Incarnation             4 NON-RATED      NO
+
+Noah           Smith         4   Incarnation             4 NON-RATED      NO
+
+Vedant         Buch          4   Indian Hill Elementary  4 NON-RATED      YES
+
+Noah           Coffman       4   Indian Hill Elementary  4 NON-RATED      NO
+
+Devon          Konopka       2   Konopka                 RATED K-3 OPEN   YES
+
+Louis-Michael  Konopka       3   Konopka                 RATED K-3 OPEN   YES
+
+Julian         Danoff        5   Kramer                  5 NON-RATED      NO
+
+Pierce         Noltemeyer    5   Kramer                  5 NON-RATED      NO
+
+Ben            Arand         7   Lakota                  7-9 NON-RATED    NO
+
+Johannes       Fernholz      7   Lakota                  7-9 NON-RATED    NO
+
+Siddharth      Khadkikar     9   Lakota                  RATED 7-9 OPEN   NO
+
+Matthew        McMullen      4   Lakota                  4 NON-RATED      NO
+
+Ty             Pulsford      10  Lakota                  RATED K-12 OPEN  NO
+
+Rick           Roychoudhury  4   Lakota                  RATED 4-6 < 800  NO
+
+Emily          Shah          3   Lakota                  3 NON-RATED      NO
+Erica     Shah        7   Lakota                  7-9 NON-RATED    NO
+
+Sajan     Shah        8   Lakota                  7-9 NON-RATED    NO
+
+Zachary   Simmons     10  Lakota                  10-12 NON-RATED  NO
+
+Anitvir   Taunque     9   Lakota                  7-9 NON-RATED    NO
+
+Danny     Hayes       3   Latonia Elementary      3 NON-RATED      NO
+
+Bentley   Ruth        2   Latonia Elementary      2 NON-RATED      NO
+
+Caleb     Marshall    2   Lexington Latin School  RATED K-3 OPEN   NO
+
+Samuel    Roundtree   7   Liberty Bible Academy   7-9 NON-RATED    NO
+
+Carly     Bickers     3   Lincoln Elementary      3 NON-RATED      NO
+
+Kevin     Buemi       5   Lincoln Elementary      5 NON-RATED      NO
+
+Lucas     Burden      4   Lincoln Elementary      4 NON-RATED      NO
+
+Connor    Callaway    2   Lincoln Elementary      2 NON-RATED      NO
+
+Addison   Clifton     5   Lincoln Elementary      5 NON-RATED      NO
+
+CJ        Cornett     3   Lincoln Elementary      3 NON-RATED      NO
+
+Mason     Fromeyer    5   Lincoln Elementary      5 NON-RATED      YES
+
+Samuel    Garcia      6   Lincoln Elementary      6 NON-RATED      NO
+
+Tony      Giglia      4   Lincoln Elementary      4 NON-RATED      NO
+
+Emily     Hall        4   Lincoln Elementary      4 NON-RATED      YES
+
+Keira     Hall        2   Lincoln Elementary      2 NON-RATED      YES
+
+Daniel    Johnson     3   Lincoln Elementary      3 NON-RATED      NO
+
+Malachi   Kennedy     2   Lincoln Elementary      2 NON-RATED      NO
+
+Marquel   Kennedy     5   Lincoln Elementary      5 NON-RATED      NO
+
+Drew      Kramer      4   Lincoln Elementary      4 NON-RATED      YES
+
+Nikki     Lin         5   Lincoln Elementary      5 NON-RATED      NO
+
+Cameron   Lunsford    4   Lincoln Elementary      4 NON-RATED      NO
+
+Paul      Masminster  6   Lincoln Elementary      6 NON-RATED      NO
+
+Lily      McCurry     4   Lincoln Elementary      4 NON-RATED      NO
+
+Connor    Morgan      5   Lincoln Elementary      5 NON-RATED      NO
+
+Aiden     Moser       6   Lincoln Elementary      6 NON-RATED      NO
+
+Kaydence  Mullins     6   Lincoln Elementary      6 NON-RATED      NO
+
+Matthew   Oder        3   Lincoln Elementary      3 NON-RATED      NO
+
+Owen      Overman     6   Lincoln Elementary      6 NON-RATED      NO
+
+Brystol   Powers      2   Lincoln Elementary      2 NON-RATED      NO
+
+Livia     Robinson    5   Lincoln Elementary      5 NON-RATED      NO
+Olivia          Sumpter          3   Lincoln Elementary          3 NON-RATED      NO
+
+Isaiah          Varchetta        2   Lincoln Elementary          2 NON-RATED      NO
+
+Peyton          Young            5   Lincoln Elementary          5 NON-RATED      NO
+
+Anna            Gray             3   Little Knights              3 NON-RATED      NO
+
+Ryan            Braga            10  Little Miami High School    10-12 NON-RATED  NO
+
+Andrew          Giannotta        10  Little Miami High School    10-12 NON-RATED  YES
+
+Ashton          Mason            6   Logan Hocking               RATED 4-6 OPEN   NO
+
+Aadi            Chandrani        3   Lowe Elementary             RATED K-3 OPEN   NO
+
+Mukund          Sharma           5   Lowe Elementary             RATED 4-6 OPEN   NO
+
+Jett            Donskey          3   Ludlow Independent Schools  3 NON-RATED      NO
+
+Luke            Lack             9   Ludlow Independent Schools  7-9 NON-RATED    NO
+
+Cassidee        Paddock          9   Ludlow Independent Schools  7-9 NON-RATED    NO
+
+Jason           Ziegler          7   Ludlow Independent Schools  7-9 NON-RATED    NO
+
+Christopher     Cunningham       9   Mars Hill Academy           7-9 NON-RATED    NO
+
+Jeremiah        Hoffman          7   Mars Hill Academy           7-9 NON-RATED    NO
+
+John Calvin     Miller           2   Mars Hill Academy           2 NON-RATED      NO
+
+Joshua          Miller           7   Mars Hill Academy           7-9 NON-RATED    NO
+
+Josiah          Miller           8   Mars Hill Academy           7-9 NON-RATED    NO
+
+Benjamin        Yang             4   Mars Hill Academy           4 NON-RATED      NO
+
+Jonathan        Yang             5   Mars Hill Academy           RATED 4-6 < 800  NO
+
+Diya            Balamurali       2   Mason                       2 NON-RATED      NO
+
+Risha           Chada            7   Mason                       7-9 NON-RATED    NO
+
+Saif            Elkilani         8   Mason                       7-9 NON-RATED    NO
+
+Yousef          Elkilani         2   Mason                       2 NON-RATED      NO
+
+Kushal          Kothapalli       7   Mason                       RATED 7-9 OPEN   NO
+
+Srikar          Payyala          1   Mason                       1 NON-RATED      NO
+
+Akul            Rajan            12  Mason                       RATED K-12 OPEN  NO
+
+Yaswanth Kumar  VarRmudadarraju  6   Mason                       6 NON-RATED      NO
+
+Aditya          Sahani           8   Mason                       RATED 7-9 OPEN   NO
+
+Vaibhav         Sahani           5   Mason                       5 NON-RATED      NO
+
+Eashan          Vytla            7   Mason                       RATED 7-9 OPEN   NO
+
+Peter           Zeng             6   Mason                       RATED 4-6 OPEN   YES
+
+Devanta         Allen            10  Master Minds                10-12 NON-RATED  NO
+
+Alex            Blevins          8   Master Minds                7-9 NON-RATED    NO
+Amir            Cannedy                5   Master Minds              5 NON-RATED      NO
+
+Javen           Davis                  9   Master Minds              7-9 NON-RATED    NO
+
+Dakota          Grossman               8   Master Minds              7-9 NON-RATED    NO
+
+Aaliyah         Long                   6   Master Minds              6 NON-RATED      NO
+
+Arionna         Long                   8   Master Minds              7-9 NON-RATED    NO
+
+Nakilo          Long                   4   Master Minds              4 NON-RATED      NO
+
+Latrell         Moore                  6   Master Minds              6 NON-RATED      NO
+
+Layla           Moore                  9   Master Minds              7-9 NON-RATED    NO
+
+Lationna        Simpson                4   Master Minds              4 NON-RATED      NO
+
+Elijah          Wells                  4   Master Minds              4 NON-RATED      NO
+
+Charlie         Lantz                  4   Mercer Elementary         4 NON-RATED      NO
+
+Jake            Lantz                  6   Mercer Elementary         6 NON-RATED      NO
+
+Sammy           Lantz                  2   Mercer Elementary         2 NON-RATED      NO
+
+William         Woolums                2   Mercer Elementary         2 NON-RATED      NO
+
+Elliott         Luntz                  5   Mercy Montessori          5 NON-RATED      NO
+
+Dylan           Dreckman-Brown         12  Middletown High School    10-12 NON-RATED  NO
+
+Sean            Ramsey                 12  Middletown High School    10-12 NON-RATED  NO
+
+Sebastian       Sharp                  10  Middletown High School    10-12 NON-RATED  NO
+
+Tarun           Balraj Satheesh Kumar  2   Moyer                     RATED K-3 OPEN   YES
+
+Kamalitharanya  Karthikeyan            2   Moyer                     2 NON-RATED      YES
+
+Kaden           Boutis                 12  Mr. Omar's Chess Academy  10-12 NON-RATED  YES
+
+Ibrahim         Chappelle              9   Mr. Omar's Chess Academy  RATED 7-9 OPEN   NO
+
+Sulayman        Chappelle              11  Mr. Omar's Chess Academy  RATED K-12 OPEN  NO
+
+Sumayah         Chappelle              10  Mr. Omar's Chess Academy  10-12 NON-RATED  NO
+
+Christian       Elam                   12  Mr. Omar's Chess Academy  10-12 NON-RATED  NO
+
+Jakob           Lara-Woodburn          12  Mr. Omar's Chess Academy  10-12 NON-RATED  YES
+
+Sam             Lewis                  9   Mr. Omar's Chess Academy  7-9 NON-RATED    NO
+
+Kai             Maruyama               10  Mr. Omar's Chess Academy  10-12 NON-RATED  NO
+
+Miles           Sturm                  12  Mr. Omar's Chess Academy  10-12 NON-RATED  NO
+
+Henry           Wirrig                 9   Mr. Omar's Chess Academy  7-9 NON-RATED    NO
+
+Braxton         Berry                  4   Mt. Airy                  4 NON-RATED      NO
+
+Sebastian       Berry                  4   Mt. Airy                  4 NON-RATED      NO
+
+Leondrae        Blassingame            6   Mt. Airy                  6 NON-RATED      NO
+
+Keonte          Brown                  6   Mt. Airy                  6 NON-RATED      NO
+Makai      Crowell       4    Mt. Airy                  4 NON-RATED      NO
+
+Nyla       Crowell       6    Mt. Airy                  6 NON-RATED      NO
+
+Andrae     Dean          4    Mt. Airy                  4 NON-RATED      NO
+
+Elijah     Edwards       5    Mt. Airy                  5 NON-RATED      YES
+
+Ta'Veon    Grace         5    Mt. Airy                  5 NON-RATED      NO
+
+Landon     Hinesmon      5    Mt. Airy                  5 NON-RATED      NO
+
+Joesiah    Howell        4    Mt. Airy                  4 NON-RATED      NO
+
+Jarriell   Kelley        5    Mt. Airy                  5 NON-RATED      NO
+
+Jeremiah   Kelley        7    Mt. Airy                  7-9 NON-RATED    NO
+
+Jaycee     Moreno        5    Mt. Airy                  5 NON-RATED      NO
+
+Brandon    Ricks         4    Mt. Airy                  4 NON-RATED      NO
+
+Jaymere    Sheffield     4    Mt. Airy                  4 NON-RATED      NO
+
+Tavarion   Thompson      6    Mt. Airy                  6 NON-RATED      NO
+
+Daryl      Walker Jr.    8    Mt. Airy                  7-9 NON-RATED    NO
+
+Da'Montay  Westbrook     6    Mt. Airy                  6 NON-RATED      NO
+
+Michael    Giglio        n/a  n/a                       SIMUL ONLY       YES
+
+William    Stock              n/a                       SIMUL ONLY       YES
+
+William    Dewey         7    Nagel Middle School       RATED 7-9 OPEN   NO
+
+Jacob      Goehring      7    Nagel Middle School       RATED 7-9 OPEN   YES
+
+Gavin      Papes         7    Nagel Middle School       RATED 7-9 OPEN   NO
+
+Ian        Naughton      8    Naughton                  7-9 NON-RATED    YES
+
+Arul       Shegaonkar    3    New Albany Elementary     RATED K-3 OPEN   NO
+
+Caleb      Newland       7    Newland                   RATED 7-9 OPEN   NO
+
+Timothy    Haynes        7    Newport Middle School     7-9 NON-RATED    NO
+
+Al'ashia   Gaines        7    North College Hill        7-9 NON-RATED    NO
+
+Marquis    Pettie        9    North College Hill        7-9 NON-RATED    NO
+
+Tah'Jhay   Rouden        8    North College Hill        7-9 NON-RATED    NO
+
+Serenity   Stonom        7    North College Hill        7-9 NON-RATED    NO
+
+Derek      Wiggins, Jr.  9    North College Hill        7-9 NON-RATED    NO
+
+Arjun      Nalladimma    3    Norton Elementary School  RATED K-12 OPEN  NO
+
+Karly      Hensley       6    Norwood Knights           6 NON-RATED      NO
+
+Caroline   Kelley        9    Norwood Knights           7-9 NON-RATED    NO
+
+Alasia     Posey         5    Norwood Knights           5 NON-RATED      NO
+
+James      Rettig        9    Norwood Knights           7-9 NON-RATED    NO
+Emma        Thomas          6   Norwood Knights          6 NON-RATED      NO
+
+Nicholas    Wojnar          7   Notre Dame Elementary    7-9 NON-RATED    NO
+
+Siddharth   Sivakumar       4   Oak Creek Elementary     4 NON-RATED      NO
+
+Kilen       Bilodeau        11  Oak Hills High School    10-12 NON-RATED  NO
+
+Mason       Poland          3   Oakdale Elementary       3 NON-RATED      YES
+
+Zenya       Hoff-Miyazaki   10  Ohio Chess Academy       RATED K-12 OPEN  YES
+
+Solomon     Miller          3   Parker Woods Montessori  3 NON-RATED      NO
+
+Bhuvandeer  Gattikoppula    7   Phoenix Middle School    RATED 7-9 OPEN   NO
+
+Deanna      Jones           5   Pleasant Hill Academy    5 NON-RATED      NO
+
+TK          McKinney        5   Pleasant Hill Academy    5 NON-RATED      NO
+
+Brian       Sanders-Nelson  5   Pleasant Hill Academy    5 NON-RATED      NO
+
+Parker      Adams           7   R to D2                  7-9 NON-RATED    NO
+
+Camryn      Bailey          7   R to D2                  7-9 NON-RATED    NO
+
+Drake       Blevins         7   R to D2                  7-9 NON-RATED    NO
+
+Dylan       Bowers          8   R to D2                  7-9 NON-RATED    NO
+
+Charlie     Farno           8   R to D2                  7-9 NON-RATED    NO
+
+Cameron     Mongar          7   R to D2                  7-9 NON-RATED    NO
+
+Alvin       Ramos           8   R to D2                  7-9 NON-RATED    NO
+
+Elvin       Ramos           8   R to D2                  7-9 NON-RATED    NO
+
+Rhiannon    Snodderly       8   R to D2                  7-9 NON-RATED    NO
+
+Jeremy      Easter          8   Reading                  7-9 NON-RATED    NO
+
+Mia         Hankerson       6   Reading                  6 NON-RATED      NO
+
+Makayla     Lawson          9   Reading                  7-9 NON-RATED    NO
+
+Aaron       Maneval         11  Reading                  10-12 NON-RATED  YES
+
+Ezekiel     McKenzie        6   Reading                  6 NON-RATED      NO
+
+Bo          Powers          11  Reading                  10-12 NON-RATED  YES
+
+Chris       Powers          6   Reading                  6 NON-RATED      YES
+
+Jonny       Powers          8   Reading                  7-9 NON-RATED    YES
+
+Jamauri     Beasley         3   Rees E. Price            3 NON-RATED      NO
+
+Azhane      Depew           6   Rees E. Price            6 NON-RATED      NO
+
+Rachel      Hughes          6   Rees E. Price            6 NON-RATED      NO
+
+Lashanti    Hutchinson      3   Rees E. Price            3 NON-RATED      NO
+
+Noah        Richardson      5   Rees E. Price            5 NON-RATED      NO
+
+A'Yani      Weaver          6   Rees E. Price            6 NON-RATED      NO
+Skyler    Welbers        3   Rees E. Price               3 NON-RATED      NO
+
+Joseph    Winkler        5   Rockwern Academy            RATED 4-6 OPEN   NO
+
+Brett     Stetter        11  Roger Bacon                 10-12 NON-RATED  NO
+
+Raymond   Yu             4   Rosa Parks Elementary       RATED 4-6 OPEN   NO
+
+Trevor    Brown          5   Schilling                   RATED 4-6 < 800  NO
+
+Aditya    Mehta          5   Scottish Elementary School  RATED 4-6 OPEN   NO
+
+Joseph    Moses          9   Seven Hills                 7-9 NON-RATED    NO
+
+Rushi     Bhatt          8   Shanahan Middle School      RATED 7-9 OPEN   NO
+
+Rithvik   Kapaganti      6   Shanahan Middle School      6 NON-RATED      NO
+
+Boil      Iliev          3   Sherwood Elementary         3 NON-RATED      YES
+
+Erik      Hopkins        5   Silverton Paideia Academy   5 NON-RATED      NO
+
+Jai'Elle  Long           3   Silverton Paideia Academy   3 NON-RATED      NO
+
+Rodney    Reid           6   Silverton Paideia Academy   6 NON-RATED      NO
+
+Matthew   Meyer          8   Skyward Academy             7-9 NON-RATED    YES
+
+Kamal     Booze          6   Sons of Queens Baltimore    RATED 4-6 < 800  YES
+
+Malik     Booze          5   Sons of Queens Baltimore    RATED 4-6 < 800  YES
+
+Ava       Thomas         4   Southgate                   4 NON-RATED      NO
+
+Jake      Redding        7   Spencer Center              7-9 NON-RATED    NO
+
+Nigel     Beeker         8   St. Columban School         7-9 NON-RATED    YES
+
+Caleb     Flohre         6   St. Columban School         6 NON-RATED      YES
+
+Nathan    Hartman        6   St. Columban School         6 NON-RATED      YES
+
+Cole      Hiller         6   St. Columban School         6 NON-RATED      YES
+
+Paul      Laufersweiler  6   St. Columban School         6 NON-RATED      YES
+
+Sam       McCullough     7   St. Columban School         7-9 NON-RATED    YES
+
+Liam      O`Donnell      7   St. Columban School         7-9 NON-RATED    YES
+
+Carter    Sokolis        6   St. Dominic                 6 NON-RATED      YES
+
+Kent      Sokolis        1   St. Dominic                 1 NON-RATED      YES
+
+Elise     Alexander      6   St. Ignatius                6 NON-RATED      NO
+
+Samuel    Beck           2   St. Ignatius                2 NON-RATED      NO
+
+William   Beck           5   St. Ignatius                5 NON-RATED      NO
+
+Josef     Boeckermann    5   St. Ignatius                5 NON-RATED      NO
+
+Joseph    Byrum          6   St. Ignatius                6 NON-RATED      NO
+
+Matthew   Hater          8   St. Ignatius                7-9 NON-RATED    NO
+
+Nolan     Hines          7   St. Ignatius                7-9 NON-RATED    NO
+Oliver       Hines        5  St. Ignatius           5 NON-RATED      NO
+
+Eric         Kabitsch     7  St. Ignatius           7-9 NON-RATED    NO
+
+Ian          Kowalski     6  St. Ignatius           6 NON-RATED      NO
+
+Nicholas     Meyer        5  St. Ignatius           5 NON-RATED      NO
+
+Lucas        Mierke       4  St. Ignatius           4 NON-RATED      NO
+
+Cooper       Phillips     2  St. Ignatius           2 NON-RATED      NO
+
+Drew         Riesenbeck   4  St. Ignatius           4 NON-RATED      NO
+
+Josie        Riestenberg  6  St. Ignatius           6 NON-RATED      NO
+
+Camille      Roman        4  St. Ignatius           4 NON-RATED      YES
+
+Isaiah       Roman        7  St. Ignatius           7-9 NON-RATED    YES
+
+Benjamin     Strasser     6  St. Ignatius           6 NON-RATED      NO
+
+Samuel       Bick         7  St. James              7-9 NON-RATED    NO
+
+Samuel       Otter        3  St. Joseph Montessori  3 NON-RATED      NO
+
+Ming Duq     Wong Miller  K  St. Joseph School      K NON-RATED      NO
+
+Ming Geet    Wong Miller  3  St. Joseph School      3 NON-RATED      NO
+
+Jack         Ernst        5  St. Mary               5 NON-RATED      YES
+
+Tyler        Munzel       5  St. Mary               5 NON-RATED      NO
+
+Dominic      Schemmel     5  St. Mary               RATED 4-6 < 800  YES
+
+Odin         Woods        5  St. Mary               5 NON-RATED      YES
+
+Benjamin     Teague       5  St. Peter              5 NON-RATED      NO
+
+Elijah       Teague       2  St. Peter              2 NON-RATED      NO
+
+Nathan       Teague       7  St. Peter              7-9 NON-RATED    NO
+
+James        McDermott    6  St. Pius X             6 NON-RATED      YES
+
+Nicolas      Brault       7  St. Susanna            7-9 NON-RATED    NO
+
+James        Butts        6  St. Susanna            6 NON-RATED      NO
+
+Joshua       Chertock     6  St. Susanna            6 NON-RATED      NO
+
+Jack         Frient       6  St. Susanna            6 NON-RATED      NO
+
+Carson       Grill        6  St. Susanna            6 NON-RATED      NO
+
+Grant        Kelly        8  St. Susanna            7-9 NON-RATED    NO
+
+Quentin      Kelly        6  St. Susanna            6 NON-RATED      NO
+
+Kyle         McKinney     7  St. Susanna            7-9 NON-RATED    NO
+
+William      Mihelick     6  St. Susanna            6 NON-RATED      NO
+
+Christopher  Mullin       7  St. Susanna            7-9 NON-RATED    NO
+
+James        Ogburn       6  St. Susanna            6 NON-RATED      NO
+Caleb        Robertson     6  St. Susanna                6 NON-RATED      NO
+
+Christopher  Riley         6  St. Therese                6 NON-RATED      NO
+
+Darnell      Baldwin       7  Summit Country Day School  7-9 NON-RATED    NO
+
+Andrew       Lam           3  Summit Country Day School  3 NON-RATED      NO
+
+Ethan        Lam           6  Summit Country Day School  6 NON-RATED      NO
+
+Dakota       Baldwin       8  Super Saturday Knights     RATED 7-9 OPEN   YES
+
+Dillon       Baldwin       4  Super Saturday Knights     4 NON-RATED      YES
+
+Mateo        Delgado       2  Super Saturday Knights     2 NON-RATED      YES
+
+Graham       Dunwoodie     7  Super Saturday Knights     RATED 7-9 OPEN   NO
+
+Vikas        Kothari       6  Super Saturday Knights     6 NON-RATED      NO
+
+Matthew      Lesan         3  Super Saturday Knights     3 NON-RATED      NO
+
+Magnus       Miller        9  Super Saturday Knights     RATED K-12 OPEN  YES
+
+Sebastian    Morales       3  Super Saturday Knights     3 NON-RATED      YES
+
+Joshua       Yamaguchi     5  Super Saturday Knights     5 NON-RATED      YES
+
+Abinav       Dinesh        3  Sycamore Aves              RATED K-12 OPEN  NO
+
+Arnav        Godha         3  Sycamore Aves              3 NON-RATED      NO
+
+Jia          Mahajan       3  Sycamore Aves              RATED K-3 OPEN   NO
+
+Hari         Nadathur      4  Sycamore Aves              RATED 4-6 < 800  NO
+
+Arushi       Sharma        9  Sycamore Aves              RATED 7-9 OPEN   NO
+
+Monica       Simon Thomas  4  Sycamore Aves              RATED 4-6 < 800  NO
+
+Susheel      Vadrevu       4  Sycamore Aves              4 NON-RATED      NO
+
+Aryan        Vaidya        9  Sycamore Aves              7-9 NON-RATED    NO
+
+Kevin        Wen           4  Sycamore Aves              RATED 4-6 < 800  YES
+
+Brody        Burcham       6  The Grim Knights           6 NON-RATED      NO
+
+Paul Aaron   Alexander     5  Thomas Elementary          5 NON-RATED      NO
+
+Casey        Bracken       6  Three Rivers               6 NON-RATED      YES
+
+Evan         Brockhoff     3  Three Rivers               3 NON-RATED      YES
+
+Luke         Brockhoff     5  Three Rivers               5 NON-RATED      YES
+
+Lee          Garber-Ford   8  Three Rivers               7-9 NON-RATED    YES
+
+Ethan        Haas          5  Three Rivers               5 NON-RATED      YES
+
+Liam         Haas          3  Three Rivers               3 NON-RATED      YES
+
+Elliot       Heidkamp      5  Three Rivers               5 NON-RATED      YES
+
+Tony         Martini       8  Three Rivers               7-9 NON-RATED    NO
+
+Eli          Pearson       8  Three Rivers               7-9 NON-RATED    NO
+Ryan             Wehking          3   Three Rivers                 3 NON-RATED      NO
+
+Aaron            Lu               5   Tremont Elementary School    5 NON-RATED      NO
+
+Brant            Smith            4   Tremont Elementary School    4 NON-RATED      NO
+
+Justin           Storn            9   Turpin High School           RATED K-12 OPEN  YES
+
+Ethan            Perriman         6   Twenhofel                    6 NON-RATED      NO
+
+Tyler            Witten           3   Upper Arlington              3 NON-RATED      NO
+
+Alex             Zhang            3   Upper Arlington              3 NON-RATED      YES
+
+Sean             Nichols          4   Villa Madonna                RATED 4-6 < 800  NO
+
+Brendan          Ramdass          4   Villa Madonna                RATED 4-6 OPEN   YES
+
+Clifton          Valentine        3   Villa Madonna                3 NON-RATED      NO
+
+James            Baur             9   Walnut Hills                 RATED 7-9 OPEN   YES
+
+Benjamin         Liu              8   Walnut Hills                 RATED 7-9 OPEN   NO
+
+Rafael "Andrew"  Ramirez          9   Walnut Hills                 RATED 7-9 OPEN   YES
+
+Cole             Redding          9   Walnut Hills                 7-9 NON-RATED    NO
+
+Adenola          Atekoja          10  Wellington                   RATED K-12 OPEN  YES
+
+James            Epps-Ramsey      10  Wellington                   RATED K-12 OPEN  NO
+
+Vincent          Hall             10  Wellington                   RATED K-12 OPEN  YES
+
+Andrew           Moyer            4   Wellington                   4 NON-RATED      NO
+
+Nicholas         Robinson         10  Wellington                   RATED K-12 OPEN  YES
+
+Jude             Rupp             1   Wellington                   1 NON-RATED      NO
+
+Langdon          Smith            1   Wellington                   1 NON-RATED      NO
+
+Adam             Teller           12  Wellington                   RATED K-12 OPEN  NO
+
+Rohit            Vallabhaneni     12  Wellington                   RATED K-12 OPEN  NO
+
+Austin           Charles          8   West Clermont Middle School  7-9 NON-RATED    NO
+
+Elliot           Hungler          8   West Clermont Middle School  7-9 NON-RATED    NO
+
+Joey             Johnston         7   West Clermont Middle School  7-9 NON-RATED    NO
+
+Ryan             Nishonov         8   West Clermont Middle School  RATED 7-9 OPEN   NO
+
+Jackson          Billingsley      6   West Louisville Chess Club   RATED 4-6 < 800  NO
+
+Bacari (heru)    Ellis (behudet)  6   West Louisville Chess Club   RATED 4-6 < 800  NO
+
+Simon            Forsting         8   West Louisville Chess Club   7-9 NON-RATED    YES
+
+Charlie          Franck           5   West Louisville Chess Club   RATED 4-6 < 800  YES
+
+Keimonie         Graves           5   West Louisville Chess Club   5 NON-RATED      NO
+
+Vincent          Gray             8   West Louisville Chess Club   7-9 NON-RATED    NO
+
+Tatiana          Hamilton         5   West Louisville Chess Club   5 NON-RATED      NO
+William     Hamilton      K   West Louisville Chess Club  K NON-RATED      NO
+
+Andrew      Hankins       5   West Louisville Chess Club  RATED 4-6 < 800  NO
+
+Quincy      Hardy         9   West Louisville Chess Club  7-9 NON-RATED    NO
+
+Craig       Joyner        5   West Louisville Chess Club  RATED 4-6 < 800  YES
+
+Brandon     Key           9   West Louisville Chess Club  7-9 NON-RATED    NO
+
+Rodney      Lattimore     7   West Louisville Chess Club  7-9 NON-RATED    NO
+
+Saleem      Lattimore     12  West Louisville Chess Club  RATED K-12 OPEN  NO
+
+Ezra        Liu           6   West Louisville Chess Club  RATED 4-6 < 800  YES
+
+Jovon Jova  Lugo          8   West Louisville Chess Club  RATED 7-9 OPEN   NO
+
+Hailey      Mize          9   West Louisville Chess Club  7-9 NON-RATED    NO
+
+Chase       Neal          3   West Louisville Chess Club  3 NON-RATED      NO
+
+Sofia       Orlova        3   West Louisville Chess Club  RATED K-3 OPEN   YES
+
+Malakhai    Pettigrew     2   West Louisville Chess Club  2 NON-RATED      NO
+
+Daequan     Seargent      10  West Louisville Chess Club  10-12 NON-RATED  NO
+
+Gabriel     Vertrees      6   West Louisville Chess Club  RATED 4-6 < 800  NO
+
+Samar       Whitt         7   West Louisville Chess Club  7-9 NON-RATED    NO
+
+Ronith      Reddy         3   Western Row Elementary      3 NON-RATED      NO
+
+Hasini      Gattikoppula  4   Worthington Park            4 NON-RATED      NO
+
+Aneesh      Vankara       8   Worthingway                 RATED 7-9 OPEN   NO
+
+Thomas      Kellner       9   Wyoming High School         7-9 NON-RATED    YES
+

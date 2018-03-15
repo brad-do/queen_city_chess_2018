@@ -1,0 +1,46 @@
+Players:1n                                                                                                                                        Page 1
+
+No.                     Name  Team                                                        Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Zhou, Kevin           Dragon                                                      5.0  13.5   15.5   31.0   W10   W5    W2    W11   W3
+
+     2  Chen, Shuang          Dragon                                                      4.0  13.0   15.0   20.0   W9    W6    L1    W15   W11
+
+     3  Diao, Zhuo            Dragon                                                      4.0  13.0   14.0   18.0   W14   W19   W5    W7    L1
+
+     4  Allen, Jacob          DetCCC                                                      4.0  11.5   14.0   22.0   L5    W8    W9    W6    W7
+
+     5  Payyala, Srikar       Mason                                                       3.0  15.0   16.0   14.0   W4    L1    L3    W19   W12
+
+     6  Rupp, Jude            Wellin                                                      3.0  13.0   14.5   13.0   W8    L2    W10   L4    W17
+
+     7  Aravind, Krish        Dragon                                                      3.0  11.5   11.5   7.0    W20   W17   W11   L3    L4
+
+     8  Alf, John             CinCDS                                                      3.0  9.0    9.0    4.0    L6    L4    W20   W13   -X-
+
+     9  Samant, Rajit         BoydSm                                                      2.5  8.5    14.0   9.5    L2    W16   L4    W17   D10
+
+10      Andey, Aarush         GlenOk                                                      2.5  7.0    12.0   5.5    L1    W20   L6    W18   D9
+
+11      Medikonda, Aarnav     GlacRE                                                      2.0  11.5   16.5   9.0    W15   W13   L7    L1    L2
+
+12      Cobb, III, Oscar      DetCCC                                                      2.0  7.5    10.5   7.0    L17   L15   W18   W14   L5
+
+13      Hawkins, George       DetCCC                                                      2.0  7.0    9.5    6.5    W18   L11   D17   L8    D16
+
+14      Sokolis, Kent         StDomi                                                      2.0  6.5    10.5   5.5    L3    D18   D16   L12   W19
+
+15      Lin, Austin           GrtrCC                                                      2.0  5.0    9.0    6.0    L11   W12   W19   L2    -F-
+
+16      Kramer, Andrew        GoodRk                                                      2.0  5.0    7.5    4.0    L19   L9    D14   W20   D13
+
+17      Kramer, Ben           GoodRk                                                      1.5  9.5    12.5   6.0    W12   L7    D13   L9    L6
+
+18      Garringer, Jack       CinCDS                                                      1.5  6.0    8.5    2.0    L13   D14   L12   L10   W20
+
+19      English Jr., Damon    DetCCC                                                      1.0  9.5    13.5   4.0    W16   L3    L15   L5    L14
+
+20      Smith, Langdon        Wellin                                                      0.0  8.5    11.5   0.0    L7    L10   L8    L16   L18
+
+Win TD Version 4.20i, (c) 2016, Estima. Printed: 03/03/2018 at 15:25. Page 1 of document
+

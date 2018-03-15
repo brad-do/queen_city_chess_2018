@@ -1,0 +1,70 @@
+Players:4-6r                                                                                                                                           Page 1
+
+No.                     Name   Team    Rate                                                    Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Sinhal, Bhavya         ColsPA                                                    1205  4.5  12.5   15.0   26.5   W11   W15   W8    D4    W9
+
+     2  Wang, Matt             CCL                                                       1573  4.5  12.0   14.0   25.0   W21   W22   D6    W5    W4
+
+     3  Li, Charlton           Dragon                                                    1054  4.0  11.0   13.0   19.0   W24   L4    W21   W23   W10
+
+     4  Winkler, Joseph        RockwA                                                    1305  3.5  16.0   16.5   19.5   W32   W3    W10   D1    L2
+
+     5  Parthiv, Kavin         Crosby                                                    1289  3.5  13.5   16.0   20.5   D14   W7    W16   L2    W8
+
+     6  Wang, Kevin            Golden                                                    1171  3.5  11.5   11.5   12.5   W23   W27   D2    L10   -X-
+
+     7  Burks, Ivory           DetCCC                                                    984   3.5  10.5   11.0   12.0   D17   L5    W31   W26   W14
+
+     8  Wibowo, Nikolas        GrtrCC                                                    855   3.0  13.0   15.5   15.0   W13   W18   L1    W15   L5
+
+     9  Mason, Ashton          Logan                                                     1178  3.0  12.5   14.0   16.0   L26   W25   W17   W11   L1
+
+10      Zha, Zehua             GrtrCC                                                    1064  3.0  12.5   14.0   13.0   W20   W26   L4    W6    L3
+
+11      Yu, Raymond            RosaPk                                                    919   3.0  12.5   14.0   13.0   L1    W29   W12   L9    W22
+
+12      Jackson, Sean          ColsAc                                                    1070  3.0  10.0   11.0   11.0   D16   D19   L11   W30   W20
+
+13      Sankula, Naga Sai      Dragon                                                    1070  3.0  9.0    9.0    8.0    L8    L20   W25   W24   -X-
+
+14      Ayyagari, Sankalp      Dragon                                                    936   2.5  9.0    14.5   12.5   D5    L17   W24   W18   L7
+
+15      Baloh, Theodore        DetCCC                                                    1006  2.5  7.5    13.5   9.5    W28   L1    W20   L8    D16
+
+16      Xiao, Alester          Dragon                                                    878   2.5  7.5    11.5   8.5    D12   W31   L5    D22   D15
+
+17      Zeng, Peter            Mason                                                     707   2.5  7.0    10.5   11.5   D7    W14   L9    W27   -F-
+
+18      Mehta, Aditya          Scotti                                                    1120  2.5  6.0    10.5   8.5    W25   L8    D27   L14   W26
+
+19      Kolli, Pranith         Humdgr                                                    975   2.5  5.5    9.0    8.0    D31   D12   L23   D28   W27
+
+20      Mutalam, Druvin Reddy  Herita                                                    825   2.0  10.0   13.0   9.0    L10   W13   L15   W21   L12
+
+21      Poe, Houston           DetCCC                                                    960   2.0  8.5    13.0   5.0    L2    W30   L3    L20   W28
+
+22      Lindsey, Matthew       DetCCC                                                    1009  2.0  8.0    12.5   6.0    W30   L2    D26   D16   L11
+
+23      Cobb, Kaitlin          DetCCC                                                    895   2.0  7.0    11.0   8.0    L6    W28   W19   L3    -F-
+
+24      Yanish, Isaiah         DetCCC                                                    756   2.0  6.5    10.5   3.0    L3    W32   L14   L13   W30
+
+25      Harris, Chase          DetCCC                                                    879   2.0  6.0    9.0    2.0    L18   L9    L13   W31   W32
+
+26      Bhayani, Neev          DarbyC                                                    899   1.5  10.5   14.0   8.0    W9    L10   D22   L7    L18
+
+27      Sharma, Mukund         LoweEl                                                    974   1.5  9.5    12.5   5.5    W29   L6    D18   L17   L19
+
+28      Paruchuri, Deepthisri  Herita                                                    707   1.5  7.5    10.0   3.5    L15   L23   W32   D19   L21
+
+29      Jones, Israel          DetCCC                                                    591   1.5  3.5    6.5    1.5    L27   L11   L30   D32   W31
+
+30      Gharat, Nimai          ConcEl                                                    803   1.0  7.5    10.5   3.0    L22   L21   W29   L12   L24
+
+31      Huang, Tyler           GrtrCC                                                    678   0.5  8.5    12.0   2.5    D19   L16   L7    L25   L29
+
+32      Ramdass, Brendan       VillaM                                                    954   0.5  7.0    10.5   1.5    L4    L24   L28   D29   L25
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 17:45. Page 1 of document
+

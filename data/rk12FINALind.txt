@@ -1,0 +1,82 @@
+Players:K-12r                                                                                                                                          Page 1
+
+No.                    Name      Team    Rate                                                  Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Storn, Justin            Turpin                                                  2118  5.0  13.5   15.5   31.0   W23   W3    W13   W11   W5
+
+     2  Dinesh, Abinav           SycamA                                                  1791  4.5  11.5   13.5   23.5   W25   W20   D6    W19   W9
+
+     3  Bradford, Lauren         DetCCC                                                  1590  4.0  12.5   14.0   18.0   W32   L1    W30   W16   W10
+
+     4  Hamilton, Jada           DetCCC                                                  1558  4.0  10.0   11.5   17.0   W33   L9    W27   W26   W12
+
+     5  Hamilton, Jaidyn         DetCCC                                                  1707  3.5  14.5   16.0   19.5   W30   D21   W8    W6    L1
+
+     6  Schmidt, James           DetCCC                                                  1815  3.5  13.5   15.5   19.5   W24   W10   D2    L5    W20
+
+     7  Borkar, Om               CCL                                                     1814  3.5  11.5   14.0   20.5   W17   L19   W14   D20   W15
+
+     8  Marshall, Caleb          Lexing                                                  1395  3.5  10.5   11.5   13.0   W34   D14   L5    W35   W19
+
+     9  Wilson, Kameron          DetCCC                                                  1800  3.0  14.0   15.5   16.5   W29   W4    D19   D12   L2
+
+10      Cao, Kenneth             CCL                                                     1561  3.0  13.5   15.0   15.0   W31   L6    W17   W18   L3
+
+11      Wilson, Bryan            DetCCC                                                  1936  3.0  13.5   14.5   13.0   W35   D12   W21   L1    D14
+
+12      Kannan, Vishwaa          Brande                                                  1642  3.0  13.0   16.0   18.0   W18   D11   W15   D9    L4
+
+13      Henry, Torrance          DetCCC                                                  1733  3.0  13.0   13.5   11.0   W37   W16   L1    L15   W25
+
+14      Washington, Kamauri      DetCCC                                                  1663  3.0  12.5   15.0   16.5   W22   D8    L7    W21   D11
+
+15      Bryant, Nolan            DetCCC                                                  1271  3.0  11.5   12.5   12.0   W36   W24   L12   W13   L7
+
+16      Teague, David            Chamin                                                  1275  3.0  11.0   11.0   8.0    W38   L13   W25   L3    W23
+
+17      Boyce, Charles           DetCCC                                                  1054  3.0  10.0   11.0   9.0    L7    W34   L10   W36   W26
+
+18      Freeman-Hall, Derrick    DetCCC                                                  987   3.0  9.5    11.0   10.0   L12   W33   W29   L10   W24
+
+19      Thomas, Michael Jeffery  DetCCC                                                  1671  2.5  10.0   16.5   14.0   W27   W7    D9    L2    L8
+
+20      Dameron, Donald          DetCCC                                                  1439  2.5  9.0    15.0   10.5   W26   L2    W31   D7    L6
+
+21      Rajan, Akul              Mason                                                   1458  2.5  8.0    13.0   10.5   W28   D5    L11   L14   W29
+
+22      Hoff-Miyazaki, Zenya     OHChes                                                  920   2.5  4.5    7.5    3.5    L14   L23   W38   D29   W35
+
+23      Watkins, Tamyre          DetCCC                                                  1198  2.0  9.5    14.5   9.0    L1    W22   L26   W27   L16
+
+24      Vallabhaneni, Rohit      Wellin                                                  1216  2.0  9.0    12.5   6.0    L6    L15   W32   W30   L18
+
+25      Crawley, Cornelius       DetCCC                                                  1035  2.0  8.5    13.0   5.0    L2    W36   L16   W31   L13
+
+26      Sokolis, Kyle            ElderH                                                  713   2.0  8.0    12.0   5.0    L20   W37   W23   L4    L17
+
+27      Hall, Vincent            Wellin                                                  990   2.0  5.5    9.5    2.0    L19   W38   L4    L23   W36
+
+28      Todd, Alayna             DetCCC                                                  825   2.0  4.5    7.0    4.0    L21   L30   L35   W34   W37
+
+29      Miller, Magnus           SuperS                                                  1163  1.5  9.5    12.5   5.5    L9    W32   L18   D22   L21
+
+30      Nalladimma, Arjun        Norton                                                  1007  1.5  9.0    13.0   5.5    L5    W28   L3    L24   D31
+
+31      Teller, Adam             Wellin                                                  896   1.5  7.0    10.0   3.5    L10   W35   L20   L25   D30
+
+32      Chappelle, Sulayman      MrOmar                                                  900   1.5  5.5    9.5    2.5    L3    L29   L24   W37   D33
+
+33      Atekoja, Adenola         Wellin                                                  794   1.5  5.5    9.5    1.5    L4    L18   L36   W38   D32
+
+34      Pulsford, Ty             Lakota                                                  691   1.5  5.5    9.0    0.5    L8    L17   D37   L28   W38
+
+35      Kruglov, Dennis          Dragon                                                  1228  1.0  9.0    12.5   4.0    L11   L31   W28   L8    L22
+
+36      Lattimore, Saleem        WestLC                                                        1.0  8.5    11.5   3.0    L15   L25   W33   L17   L27
+
+37      Robinson, Nicholas       Wellin                                                  1070  0.5  7.0    10.0   1.5    L13   L26   D34   L32   L28
+
+38      Phillippi, Caleb         Grant                                                   488   0.0  7.5    10.5   0.0    L16   L27   L22   L33   L34
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 17:49. Page 1 of document
+

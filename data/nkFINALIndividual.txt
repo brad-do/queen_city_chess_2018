@@ -1,0 +1,22 @@
+Players:Kn                                                                                                                                        Page 1
+
+No.                    Name         Team                                                  Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Chu, Anson             CCL                                                        4.5  8.5    14.0   25.0   W5    W4    W2    D3    W6
+
+     2  Xie, Ethan             Dragon                                                     4.0  7.0    13.0   17.0   W6    W3    L1    W5    W7
+
+     3  Zhang, Philip          Dragon                                                     3.0  8.0    12.5   10.0   W8    L2    W7    D1    D5
+
+     4  Zhang, Phineas         Dragon                                                     3.0  5.5    10.0   6.0    W7    L1    L5    W6    W8
+
+     5  Wong Miller, Ming Duq  StJosS                                                     2.5  10.0   14.5   9.0    L1    W8    W4    L2    D3
+
+     6  Hamilton, William      WestLC                                                     1.5  8.5    13.0   1.5    L2    D7    W8    L4    L1
+
+     7  Cobb, Isaiah           DetCCC                                                     1.5  7.5    11.5   1.5    L4    D6    L3    W8    L2
+
+     8  Taylor, Dominic        DetCCC                                                     0.0  7.0    11.5   0.0    L3    L5    L6    L7    L4
+
+Win TD Version 4.20i, (c) 2016, Estima. Printed: 03/03/2018 at 13:43. Page 1 of document
+

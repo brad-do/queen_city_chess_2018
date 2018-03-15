@@ -1,0 +1,105 @@
+Players:4-6U800r                                                                                                                                      Page 1
+
+No.                     Name   Team    Rate                                                   Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Wibowo, Aurora         GrtrCC                                                    684  5.0  15.0   17.5   35.0   W21   W5    W13   W4    W3
+
+     2  Scarbrough, James      CCL                                                       618  4.5  11.0   12.5   22.0   W34   D11   W39   W14   W12
+
+     3  Lu, Olivia             DeerRn                                                    662  4.0  14.5   16.5   23.0   W14   W15   W27   W8    L1
+
+     4  Wu, Mason              Dragon                                                    729  4.0  14.0   15.5   21.0   W41   W18   W7    L1    W13
+
+     5  Vertrees, Gabriel      WestLC                                                    607  4.0  13.0   15.0   20.0   W22   L1    W31   W27   W11
+
+     6  Hughes, Ella Lea       CCL                                                       774  4.0  11.0   12.0   17.5   D8    W42   W40   D11   W17
+
+     7  Liu, Ezra              WestLC                                                    647  3.5  14.0   16.0   20.5   W10   W12   L4    W28   D9
+
+     8  Daiber, Joseph         ColsAc                                                    642  3.5  13.0   15.0   18.0   D6    W35   W23   L3    W25
+
+     9  Lykins, William        Fairbn                                                         3.5  12.5   14.5   19.5   W30   L16   W20   W19   D7
+
+10      Schenck-Chang, Evan    ColsAc                                                    773  3.5  10.5   11.0   12.5   L7    D23   W45   W29   W24
+
+11      Baloh, Maxwell         DetCCC                                                    732  3.0  15.5   17.5   18.5   W19   D2    W28   D6    L5
+
+12      Swartz, Reed           ColsAc                                                    737  3.0  14.0   15.0   14.0   W17   L7    W42   W15   L2
+
+13      Dunson, William        DetCCC                                                    439  3.0  14.0   14.0   10.0   -B-   W34   L1    W16   L4
+
+14      Yang, Jonathan         MarsHl                                                    798  3.0  13.5   15.5   14.0   L3    W20   W33   L2    W32
+
+15      Seethiraju, Srikari    Herita                                                    580  3.0  12.0   14.0   14.0   W16   L3    W35   L12   W33
+
+16      Simon Thomas, Monica   SycamA                                                    692  3.0  11.0   12.0   13.0   L15   W9    W44   L13   W28
+
+17      Harrell, Faith         DetCCC                                                    614  3.0  11.0   12.0   10.0   L12   W29   W43   W30   L6
+
+18      Ramirez, Daniel        Fairvw                                                    628  3.0  10.5   12.5   13.0   W25   L4    L30   W31   W29
+
+19      Nadathur, Hari         SycamA                                                    612  3.0  10.5   11.5   10.0   L11   W44   W37   L9    W27
+
+20      Franck, Charlie        WestLC                                                    491  3.0  10.5   11.0   9.0    W31   L14   L9    W45   W34
+
+21      Wen, Kevin             SycamA                                                    517  3.0  10.5   11.0   8.0    L1    W46   L29   W36   W35
+
+22      Story, Nolan           DetCCC                                                    717  3.0  9.0    9.5    7.0    L5    L28   W46   W43   W30
+
+23      Levy, David            BexMS                                                     461  2.5  7.5    12.5   9.5    W36   D10   L8    L24   W40
+
+24      Pullabhotla, Abhinav   Dragon                                                    685  2.5  7.0    12.0   10.5   D26   L27   W41   W23   L10
+
+25      Shetty, Aniket         Dragon                                                    772  2.5  7.0    12.0   9.5    L18   D39   W26   W40   L8
+
+26      Ruffin, Ivan           DetCCC                                                    559  2.5  5.5    9.5    8.5    D24   L40   L25   W41   W39
+
+27      Burks, Avery           DetCCC                                                         2.0  11.5   15.5   9.0    W38   W24   L3    L5    L19
+
+28      Cella, Samuel          Incarn                                                    164  2.0  11.0   14.5   10.0   W33   W22   L11   L7    L16
+
+29      Booze, Kamal           SonsQu                                                         2.0  11.0   14.5   10.0   W32   L17   W21   L10   L18
+
+30      Brown, Trevor          Schill                                                    400  2.0  10.5   14.0   9.0    L9    W36   W18   L17   L22
+
+31      Mackie, Brendan        DetCCC                                                    175  2.0  9.0    13.0   6.0    L20   W32   L5    L18   W44
+
+32      Billingsley, Jackson   WestLC                                                    412  2.0  8.0    11.0   8.0    L29   L31   W38   W37   L14
+
+33      Williams, Nicholas     DetCCC                                                    478  2.0  8.0    11.0   6.0    L28   W38   L14   W44   L15
+
+34      Kolli, Manoghna        Humdgr                                                    746  2.0  7.5    12.0   4.0    L2    L13   W47   W39   L20
+
+35      Ellis behudet, Bacari  WestLC                                                         2.0  7.5    11.0   3.0    W45   L8    L15   W42   L21
+
+36      Harrington, Roland     DetCCC                                                    134  2.0  5.5    8.5    2.0    L23   L30   -B-   L21   W43
+
+37      Booze, Malik           SonsQu                                                         2.0  5.0    8.0    3.0    L39   W47   L19   L32   W42
+
+38      Sadana, Adi            ColsAc                                                    194  2.0  5.0    7.0    2.0    L27   L33   L32   W47   W45
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 17:38. Page 1 of document
+Players:4-6U800r                                                                                                                                      Page 2
+
+No.                 Name     Team    Rate                                                     Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+39   Schemmel, Dominic       StMary                                                      390  1.5  9.0    13.5   6.5    W37   D25   L2    L34   L26
+
+40   Ramirez, Thomas         Fairvw                                                           1.5  8.5    12.5   6.0    D43   W26   L6    L25   L23
+
+41   Howard, Armari          DetCCC                                                      612  1.5  6.5    10.5   2.0    L4    D43   L24   L26   W46
+
+42   Jones-Franklin, Kamron  DetCCC                                                      463  1.0  7.5    11.5   1.0    W46   L6    L12   L35   L37
+
+43   Nichols, Sean           VillaM                                                      382  1.0  7.5    10.5   3.0    D40   D41   L17   L22   L36
+
+44   Joyner, Craig           WestLC                                                           1.0  7.5    10.5   1.0    W47   L19   L16   L33   L31
+
+45   Wilson, Charlese        DetCCC                                                      114  1.0  7.0    10.5   0.0    L35   -B-   L10   L20   L38
+
+46   Hankins, Andrew         WestLC                                                      136  1.0  5.5    8.5    0.0    L42   L21   L22   -B-   L41
+
+47   Harrington, Benjamin    DetCCC                                                      204  1.0  5.0    7.0    0.0    L44   L37   L34   L38   -B-
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 17:38. Page 2 of document
+

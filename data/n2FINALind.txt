@@ -1,0 +1,58 @@
+Players:2n                                                                                                                                       Page 1
+
+No.                     Name         Team                                                Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Prabhakar, Karthik           Dragon                                              5.0  13.0   15.0   30.0   W16   W18   W7    W6    W2
+
+     2  Karthikeyan, Arjun           Dragon                                              4.0  14.5   17.0   24.0   W12   W13   W10   W3    L1
+
+     3  Miller, John Calvin          MarsHl                                              4.0  14.0   17.0   26.0   W5    W9    W4    L2    W8
+
+     4  Kodkani, Arnav               Dragon                                              3.5  13.5   15.0   18.5   W8    W21   L3    D5    W10
+
+     5  Woolums, William             Mercer                                              3.5  13.0   15.5   19.5   L3    W14   W9    D4    W12
+
+     6  Delgado, Mateo               SuperS                                              3.5  12.0   12.5   12.0   W26   D7    W17   L1    W15
+
+     7  Burks, Genevieve             DetCCC                                              3.0  13.5   15.5   15.0   W14   D6    L1    W17   D16
+
+     8  Beck, Samuel                 StIgna                                              3.0  13.0   15.0   15.0   L4    W11   W13   W18   L3
+
+     9  Harrington, Alexis           DetCCC                                              3.0  11.5   12.5   10.0   W23   L3    L5    W19   W20
+
+10      Brantley, Dominic            DetCCC                                              3.0  11.0   12.0   9.0    W25   W15   L2    W21   L4
+
+11      Callaway, Connor             LincEl                                              3.0  8.0    9.0    9.0    L21   L8    W23   W22   W18
+
+12      Smith, Nickalas              DetCCC                                              2.5  7.5    12.0   7.0    L2    W26   W19   D15   L5
+
+13      Bowery, Collin               BGCGC                                               2.5  7.0    12.0   7.5    W24   L2    L8    D14   W21
+
+14      Powers, Brystol              LincEl                                              2.5  7.0    11.5   7.5    L7    L5    W25   D13   W22
+
+15      Pettigrew, Malakhai          WestLC                                              2.5  7.0    10.5   5.5    -B-   L10   W22   D12   L6
+
+16      Elkilani, Yousef             Mason                                               2.5  5.5    11.5   7.5    L1    D23   D21   W24   D7
+
+17      Ruth, Bentley                Latona                                              2.5  5.5    9.0    3.5    -B-   D22   L6    L7    W24
+
+18      Teague, Elijah               StPetr                                              2.0  9.0    14.0   6.0    W19   L1    W24   L8    L11
+
+19      Karthikeyan, Kamalitharanya  Moyer                                               2.0  6.0    9.0    3.0    L18   W25   L12   L9    W26
+
+20      Kennedy, Malachi             LincEl                                              2.0  4.0    7.0    3.0    L22   L24   W26   W23   L9
+
+21      Phillips, Cooper             StIgna                                              1.5  11.0   14.5   8.5    W11   L4    D16   L10   L13
+
+22      Karnga, Alexis               DetCCC                                              1.5  8.5    11.5   6.0    W20   D17   L15   L11   L14
+
+23      Fleming, Annie               GrimKn                                              1.0  8.5    11.5   3.5    L9    D16   L11   L20   D25
+
+24      Lantz, Sammy                 MercEl                                              1.0  8.5    11.0   4.0    L13   W20   L18   L16   L17
+
+25      Varchetta, Isaiah            LincEl                                              1.0  6.0    9.0    1.5    L10   L19   L14   D26   D23
+
+26      Hall, Keira                  LincEl                                              0.5  7.5    11.0   1.0    L6    L12   L20   D25   L19
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 17:03. Page 1 of document
+

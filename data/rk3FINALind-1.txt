@@ -1,0 +1,64 @@
+Players:K-3r                                                                                                                                           Page 1
+
+No.                    Name           Team    Rate                                             Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Balraj Satheesh Kumar, Tarun  Moyer   1198                                             5.0  0.0    0.0    0.0    W24   W19   W2    W3    W10
+
+     2  Kannan, Vijay                 Brande                                              988  4.0  0.0    0.0    0.0    W12   W8    L1    W7    W9
+
+     3  Chandrani, Aadi               LoweEl                                              994  4.0  0.0    0.0    0.0    W28   W13   W7    L1    W8
+
+     4  Suwiryo, Sophia               GrtrCC                                              830  3.5  0.0    0.0    0.0    W18   D25   L16   W14   W15
+
+     5  Kunapuli, Siddarth            CCL                                                 933  3.5  0.0    0.0    0.0    L7    W26   D14   W25   W16
+
+     6  Hu, Eli                       Dragon                                              886  3.5  0.0    0.0    0.0    D14   W23   L15   W26   W11
+
+     7  Konopka, Louis-Michael        Konopk                                              527  3.0  0.0    0.0    0.0    W5    W9    L3    L2    W19
+
+     8  Xu, Arwin                     GrtrCC                                                   3.0  0.0    0.0    0.0    W20   L2    W13   W17   L3
+
+     9  Mahajan, Jia                  SycamA                                              666  3.0  0.0    0.0    0.0    W11   L7    W27   W16   L2
+
+10      Ganga, Sanjeev                Dragon                                              856  3.0  0.0    0.0    0.0    D26   D14   W25   W15   L1
+
+11      Crawford, Mariah              DetCCC                                              292  3.0  0.0    0.0    0.0    L9    -B-   W20   W12   L6
+
+12      Kothapalli, Ashish            Dragon                                              528  3.0  0.0    0.0    0.0    L2    W22   W28   L11   W23
+
+13      Parmar, Jay                   DeerRn                                              598  3.0  0.0    0.0    0.0    W29   L3    L8    W27   W21
+
+14      Zaleski, John                 ColsPA                                              501  2.5  0.0    0.0    0.0    D6    D10   D5    L4    W25
+
+15      Shegaonkar, Arul              NewAlb                                              737  2.5  0.0    0.0    0.0    W17   D16   W6    L10   L4
+
+16      Roy, Abhiraj                  Dragon                                                   2.5  0.0    0.0    0.0    W21   D15   W4    L9    L5
+
+17      Pisini, Jashwin               CCL                                                 442  2.5  0.0    0.0    0.0    L15   W21   W19   L8    D18
+
+18      Turner, Taharka               DetCCC                                              494  2.5  0.0    0.0    0.0    L4    L20   -B-   W22   D17
+
+19      Fields, Braylon               DetCCC                                              616  2.0  0.0    0.0    0.0    W27   L1    L17   W28   L7
+
+20      Karnati, Hardhi               Brande                                              645  2.0  0.0    0.0    0.0    L8    W18   L11   L21   W27
+
+21      Cosma II, Allan               DetCCC                                              567  2.0  0.0    0.0    0.0    L16   L17   W29   W20   L13
+
+22      Konopka, Devon                Konopk                                              667  2.0  0.0    0.0    0.0    L25   L12   W24   L18   W26
+
+23      Manley, Khai                  DetCCC                                              246  2.0  0.0    0.0    0.0    -B-   L6    L26   W29   L12
+
+24      Kramer, Jacob                 GoodRk                                              543  2.0  0.0    0.0    0.0    L1    L27   L22   -B-   W28
+
+25      Cobb, Samuel                  DetCCC                                              377  1.5  0.0    0.0    0.0    W22   D4    L10   L5    L14
+
+26      Lykins, Kaylee                Fairbn                                              498  1.5  0.0    0.0    0.0    D10   L5    W23   L6    L22
+
+27      Myers, Tayden                 Fairbn                                                   1.0  0.0    0.0    0.0    L19   W24   L9    L13   L20
+
+28      Orlova, Sofia                 WestLC                                              541  1.0  0.0    0.0    0.0    L3    W29   L12   L19   L24
+
+29      Moore, Alexander              Fairbn                                                   1.0  0.0    0.0    0.0    L13   L28   L21   L23   -B-
+
+Win TD Version 4.20f, (c) 2016, Estima. Printed: 03/05/2018 at 11:18. Page 1 of document
+

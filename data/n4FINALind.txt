@@ -1,0 +1,156 @@
+Players:4n                                                                                                                                       Page 1
+
+No.                    Name   Team                                                       Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Kajan, Aakash         Dragon                                                     5.0  15.0   17.0   34.0   W43   W23   W5    W6    W3
+
+     2  Kankeyan, Risheeth    GlacRE                                                     4.5  15.0   18.0   32.0   W19   W17   D4    W7    W10
+
+     3  Long, Nakilo          Master                                                     4.0  15.5   17.5   25.0   W47   W9    W22   W11   L1
+
+     4  Narisetti, Rohan      Dragon                                                     4.0  14.5   16.0   24.0   W56   W13   D2    W20   D12
+
+     5  Rahtz, William        Colera                                                     4.0  13.0   15.0   20.0   W41   W18   L1    W43   W25
+
+     6  Sivakumar, Siddharth  Oakcrk                                                     4.0  13.0   13.0   16.0   W67   W49   W12   L1    W18
+
+     7  Paruchuri, Divyasree  Herita                                                     4.0  12.5   14.5   20.0   W50   W34   W32   L2    W17
+
+     8  Crowell, Makai        MtAiry                                                     4.0  12.5   14.0   21.0   W53   L11   W23   W21   W19
+
+     9  Ballard, Onyeka       DetCCC                                                     4.0  12.0   13.0   18.0   W60   L3    W39   W26   W22
+
+10      Lunsford, Cameron     LincEl                                                     4.0  12.0   13.0   17.0   W61   W40   W42   W16   L2
+
+11      Gattikoppula, Hasini  WorPar                                                     3.5  14.5   17.5   24.0   W14   W8    W24   L3    D20
+
+12      Ganim, Mitchell       GuardA                                                     3.5  12.5   14.0   16.0   W51   W28   L6    W38   D4
+
+13      Randon, Daniel        DetCCC                                                     3.5  11.0   12.5   13.5   W39   L4    W55   W52   D14
+
+14      Dwyer, Lucas          GuardA                                                     3.5  11.0   12.0   13.5   L11   W60   W49   W32   D13
+
+15      Chaudhuri, Sean       Incarn                                                     3.5  10.5   12.0   16.5   L38   W57   W48   W27   D16
+
+16      McMullen, Matthew     Lakota                                                     3.5  10.5   11.0   10.5   W65   W58   W38   L10   D15
+
+17      Muddana, Keertan      Dragon                                                     3.0  14.0   16.0   15.0   W36   L2    W44   W24   L7
+
+18      Smith, Brant          Tremon                                                     3.0  13.0   14.5   13.0   W46   L5    W53   W29   L6
+
+19      Kramer, Drew          LincEl                                                     3.0  13.0   14.5   12.0   L2    W52   W35   W42   L8
+
+20      Khoury, William       ColsAc                                                     3.0  12.5   15.0   16.0   D66   W35   W31   L4    D11
+
+21      Riesenbeck, Drew      StIgna                                                     3.0  12.5   14.5   15.0   W30   L24   W28   L8    W39
+
+22      Buch, Vedant          IndnEl                                                     3.0  12.5   14.0   12.0   W57   W44   L3    W34   L9
+
+23      Wardle, Matthew       Fairbn                                                     3.0  12.5   14.0   10.0   W54   L1    L8    W56   W41
+
+24      Medikonda, Akhil      GlacRE                                                     3.0  11.5   13.0   13.0   W59   W21   L11   L17   W44
+
+25      Moyer, Andrew         Wellin                                                     3.0  11.0   13.0   14.0   L40   W30   W46   W47   L5
+
+26      Mierke, Lucas         StIgna                                                     3.0  11.0   11.0   8.0    L27   W67   W41   L9    W46
+
+27      Dean, Andrae          MtAiry                                                     3.0  10.5   12.5   14.0   W26   L38   W40   L15   W47
+
+28      Goodwin, Alex         Bellev                                                     3.0  10.0   10.0   7.0    -X-   L12   L21   W53   W42
+
+29      Coffman, Noah         IndnEl                                                     3.0  9.0    10.5   11.0   W55   L42   W45   L18   W38
+
+30      Baldwin, Dillon       SuperS                                                     3.0  9.0    10.0   8.0    L21   L25   W63   W62   W45
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 16:28. Page 1 of document
+Players:4n                                                                                                                                       Page 2
+
+No.                    Name  Team                                                        Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+31   Stamm, Elizabethe       Beechw                                                      3.0  9.0    9.0    8.0    D52   -X-   L20   D33   W43
+
+32   Smith, Damen            DetCCC                                                      2.5  8.5    15.0   12.5   W37   W33   L7    L14   D34
+
+33   Fleming, Jack           GrimKn                                                      2.5  7.0    11.0   10.0   D48   L32   W54   D31   D36
+
+34   Ricks, Brandon          MtAiry                                                      2.5  6.5    11.0   5.5    W64   L7    W62   L22   D32
+
+35   Nayak, Aditya           CinCDS                                                      2.5  6.5    10.0   6.0    D45   L20   L19   W65   W54
+
+36   Roman, Camille          StIgna                                                      2.5  6.0    10.5   8.5    L17   L41   W59   W51   D33
+
+37   Griffin , Braylon       BGCGC                                                       2.5  5.5    9.0    7.0    L32   L39   W61   D40   W52
+
+38   Wells, Elijah           Master                                                      2.0  13.0   16.5   13.0   W15   W27   L16   L12   L29
+
+39   Howell, Joesiah         MtAiry                                                      2.0  10.5   14.5   8.0    L13   W37   L9    W49   L21
+
+40   Ledbetter, Noah         Colera                                                      2.0  10.0   14.0   10.0   W25   L10   L27   D37   D56
+
+41   Stromile, Mario         DetCCC                                                      2.0  10.0   14.0   8.0    L5    W36   L26   W55   L23
+
+42   Lantz, Charlie          MercEl                                                      2.0  9.5    13.5   8.0    W63   W29   L10   L19   L28
+
+43   Bowery, Liam            BGCGC                                                       2.0  9.0    14.0   5.0    L1    W61   W51   L5    L31
+
+44   Timko, Kaelin           GuardA                                                      2.0  9.0    12.0   6.0    W62   L22   L17   W48   L24
+
+45   Sheffield, Jaymere      MtAiry                                                      2.0  8.5    11.5   6.5    D35   D48   L29   W60   L30
+
+46   Bowman, Jackson         Bellev                                                      2.0  8.5    11.5   5.0    L18   W59   L25   W58   L26
+
+47   Iyoha, Vaughn           Bethan                                                      2.0  7.5    11.5   3.0    L3    W64   W58   L25   L27
+
+48   Salcedo, Connor         CinCDS                                                      2.0  7.0    10.5   5.5    D33   D45   L15   L44   W64
+
+49   Smith, Noah             Incarn                                                      2.0  6.5    10.5   2.0    -X-   L6    L14   L39   W62
+
+50   Thomas, Ava             Southg                                                      2.0  5.5    9.5    5.0    L7    D54   L52   D57   W61
+
+51   Bracey, Kaleb           EdenGr                                                      2.0  5.5    9.0    2.0    L12   -B-   L43   L36   W60
+
+52   Berry, Braxton          MtAiry                                                      1.5  10.0   13.5   6.5    D31   L19   W50   L13   L37
+
+53   Vadrevu, Susheel        SycamA                                                      1.5  8.0    12.0   4.0    L8    W56   L18   L28   D58
+
+54   Moore, Sam              BGCGC                                                       1.5  8.0    11.0   4.0    L23   D50   L33   W63   L35
+
+55   Giglia, Tony            LincEl                                                      1.5  7.5    11.0   3.5    L29   W63   L13   L41   D57
+
+56   Griffith, Olivia        BGCGC                                                       1.5  7.0    11.0   3.0    L4    L53   W64   L23   D40
+
+57   Couch, Lillyan          HolyFm                                                      1.5  7.0    10.5   4.0    L22   L15   D65   D50   D55
+
+58   Burden, Lucas           LincEl                                                      1.5  5.5    9.0    1.5    -X-   L16   L47   L46   D53
+
+59   Manguire, Elijah        BGCGC                                                       1.5  5.5    8.5    1.5    L24   L46   L36   D64   W65
+
+60   Caudill, Kolby          Bellev                                                      1.0  7.0    11.0   0.0    L9    L14   W67   L45   L51
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 16:28. Page 2 of document
+Players:4n                                                                                                                                       Page 3
+
+No.                 Name  Team                                                           Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+61   Tuzzo, Tage          Bellev                                                         1.0  6.5    10.5   0.0    L10   L43   L37   W67   L50
+
+62   McCurry, Lily        LincEl                                                         1.0  6.5    9.5    1.0    L44   W65   L34   L30   L49
+
+63   Solomon, Cirah       EthelT                                                         1.0  5.0    8.0    0.0    L42   L55   L30   L54   W67
+
+64   Lackey, Laylah       Chase                                                          0.5  7.0    9.5    1.5    L34   L47   L56   D59   L48
+
+65   Turner, Durrell      EthelT                                                         0.5  6.5    10.0   1.5    L16   L62   D57   L35   L59
+
+66   Cheng, Andrew        GrtrCC                                                         0.5  0.0    3.0    3.0    D20   -F-   ---   ---   ---
+
+67   Ortiz, Andres        HolyFm                                                         0.0  6.0    10.0   0.0    L6    L26   L60   L61   L63
+
+68   Simpson, Lationna    Master                                                         0.0  0.0    0.0    0.0    -F-   ---   ---   ---   ---
+
+69   Yang, Benjamin       MarsHl                                                         0.0  0.0    0.0    0.0    -F-   ---   ---   ---   ---
+
+70   Hall, Emily          LincEl                                                         0.0  0.0    0.0    0.0    -F-   ---   ---   ---   ---
+
+Win TD Version 4.20, (c) 2013, Estima. Printed: 03/03/2018 at 16:28. Page 3 of document
+

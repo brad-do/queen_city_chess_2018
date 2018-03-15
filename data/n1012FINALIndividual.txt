@@ -1,0 +1,62 @@
+Players:10-12n                                                                                                                                    Page 1
+
+No.                     Name   Team                                                       Pts  TBrk1  TBrk2  TBrk3  Rnd1  Rnd2  Rnd3  Rnd4  Rnd5
+
+     1  Bilodeau, Kilen        Oakhil                                                     5.0  9.0    15.0   30.0   W19   W17   W6    W3    W2
+
+     2  Boutis, Kaden          MrOmar                                                     4.0  9.5    16.5   23.0   W15   W9    W26   W4    L1
+
+     3  Stetter, Brett         RogerB                                                     4.0  9.0    16.0   22.0   W18   W26   W5    L1    W6
+
+     4  Maneval, Aaron         Readin                                                     4.0  8.5    14.0   20.0   W22   W13   W7    L2    W8
+
+     5  Alverson, Lindsey      AKingQ                                                     4.0  5.5    10.0   12.0   W23   W27   L3    W21   W7
+
+     6  Reason, Gabriel        DetCCC                                                     3.0  9.5    16.0   14.0   W20   W8    L1    W14   L3
+
+     7  Ramsey, Sean           MiddlH                                                     3.0  9.0    14.0   12.0   W25   W14   L4    W13   L5
+
+     8  Braunstein, Jake       AKingQ                                                     3.0  8.0    14.0   14.0   W12   L6    W17   W18   L4
+
+     9  Xiang, Charles         CinCDS                                                     3.0  6.5    11.5   11.0   W24   L2    L18   W19   W16
+
+10      Craig, Grayson         Avenue                                                     3.0  6.5    10.0   10.0   L14   W25   L13   W22   W15
+
+11      Simmons, Zachary       Lakota                                                     3.0  6.5    9.0    8.0    L13   L15   -B-   W17   W18
+
+12      Pulliam, Randi         Goshen                                                     3.0  5.0    8.5    6.0    L8    L16   W24   W27   W20
+
+13      Elam, Christian        MrOmar                                                     2.5  8.5    15.0   13.5   W11   L4    W10   L7    D14
+
+14      Braga, Ryan            LitlMi                                                     2.5  8.5    13.0   11.5   W10   L7    W22   L6    D13
+
+15      Allen, Devanta         Master                                                     2.5  8.0    13.0   9.5    L2    W11   W25   D16   L10
+
+16      Lara-Woodburn, Jakob   MrOmar                                                     2.5  7.5    12.5   12.5   L17   W12   W19   D15   L9
+
+17      Singleton, Brandon     Goshen                                                     2.0  8.0    14.5   8.0    W16   L1    L8    L11   W21
+
+18      Chappelle, Sumayah     MrOmar                                                     2.0  8.5    13.5   8.0    L3    W23   W9    L8    L11
+
+19      Walker, Amari          DetCCC                                                     2.0  7.0    13.0   5.0    L1    W20   L16   L9    W24
+
+20      Sturm, Miles           MrOmar                                                     2.0  6.0    9.0    2.0    L6    L19   W23   -X-   L12
+
+21      Maruyama, Kai          MrOmar                                                     2.0  4.5    8.5    1.0    L26   -B-   W27   L5    L17
+
+22      Smith, Jordan          DetCCC                                                     1.5  6.5    11.5   3.0    L4    W24   L14   L10   D23
+
+23      Seargent, Daequan      WestLC                                                     1.5  5.0    9.0    1.5    L5    L18   L20   -B-   D22
+
+24      Giannotta, Andrew      LitlMi                                                     1.0  6.5    10.5   2.0    L9    L22   L12   W25   L19
+
+25      Crawford, Mya          DetCCC                                                     1.0  6.5    10.0   1.0    L7    L10   L15   L24   W27
+
+26      Dreckman-Brown, Dylan  MiddlH                                                     1.0  5.5    9.5    3.0    W21   L3    L2    -F-   ---
+
+27      Powers, Bo             Readin                                                     1.0  5.5    9.5    0.0    -X-   L5    L21   L12   L25
+
+28      Sharp, Sebastian       MiddlH                                                     0.0  0.0    0.0    0.0    -F-   ---   ---   ---   ---
+
+Win TD Version 4.20i, (c) 2016, Estima. Printed: 03/03/2018 at 17:13. Page 1 of document
+
