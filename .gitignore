@@ -1,1 +1,5 @@
-.ipynb_checkpoints/
+.ipynb_checkpoints/*
+exported/*
+
+*.png
+a_new_hope.ipynb
